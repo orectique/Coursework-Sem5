@@ -1,0 +1,5 @@
+1.	Write a java program to find the factorial of a number and using recursion.
+2.	Write a java program to check if a given number is an Armstrong number.
+3.	Write a java program to check if the given integer number is a palindrome
+4.	Write a Java program to check if the user specified string is equal to a string stored in a variable using the String library function.
+5.	Write a Java Program to reverse a string with and without using the library function

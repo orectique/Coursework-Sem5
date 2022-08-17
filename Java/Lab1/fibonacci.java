@@ -1,3 +1,4 @@
+package Lab1;
 public class fibonacci {
     public static void main(String[] args){
         int[] fib = new int[10];
