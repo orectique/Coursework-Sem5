@@ -1,0 +1,5 @@
+1.  Write a Java program to print the prime numbers between 1 to 100.
+2.  Write a Java program to accept the strings from the user and print the ascii value of the individual character in the string.
+3.  Write a Java program to find the maximum and minimum element in an array.
+4.  Write a Java program to transform a given integer to String format.
+5.  Write a Java program to find a substring inside a string (Both accepted from the user as input).
