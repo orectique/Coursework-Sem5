@@ -1,6 +1,6 @@
 /*1.	Write a java program to find the factorial of a number and using recursion. */
 
-package Lab2;
+package Lab3;
 import java.util.Scanner;
 
 public class factorial {

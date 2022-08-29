@@ -1,6 +1,6 @@
 /*4.	Write a Java program to check if the user specified string is equal to a string stored in a variable using the String library function. */
 
-package Lab2;
+package Lab3;
 import java.util.Scanner;
 
 public class stringComp {

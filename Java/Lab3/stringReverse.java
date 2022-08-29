@@ -1,6 +1,6 @@
 /*5.Write a Java Program to reverse a string with and without using the library function */
 
-package Lab2;
+package Lab3;
 
 import java.util.Scanner;
 
