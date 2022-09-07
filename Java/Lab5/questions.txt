@@ -1,0 +1,14 @@
+1.Write a program to print the text in reverse order by interchanging the position of the words. The text / line has to be accepted as user Input 
+(Example: If the following string accepted as input:
+I live in India. I am studying in college. The college is located in Coimbatore.
+The output should be:
+India in live I. college in studying am I. Coimbatore in located is college The.
+
+2.Have an array A of size N that contains non-negative integers. Your task is to determine whether the number that is formed by adding the last digit of all the N numbers is divisible by 10.
+
+3.Write a program to display the GCD of the given two integers and both the input has to be accepted from the user
+
+4. Given a string S of lowercase English alphabets of length N. You need to compress the string with the following rules:
+    a.	Convert the first letter to the uppercase
+    b.	Convert the substring consisting of all the consonants to the length of this substring (e.g. abcde to a3e)
+    c.	Remove the consecutive duplicate vowels (e.g. aaaeiia to aeia)
