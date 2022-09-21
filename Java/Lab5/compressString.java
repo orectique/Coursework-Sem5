@@ -6,7 +6,6 @@
 package Lab5;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class compressString {
 
@@ -57,16 +56,18 @@ public class compressString {
             int count = 0;
 
             for (int i = 0; i < str.length(); i++) {
+                System.out.println(str);
                 if (consts[i] == 0) {
                     temp = temp + str.charAt(i);
                     count = 0;
                 } else if (consts[i] == 1) {
                     count = count + 1;
-                    str = str.deleteCharAt(i);
-                    
+
                     if (consts[i + 1] == 0) {
                         temp = temp + String.valueOf(count);
                     }
+
+                    str = str.deleteCharAt(i);                    
                 }
             }
 
@@ -74,7 +75,7 @@ public class compressString {
 
             str1 = str1.substring(0, 1).toUpperCase() + str1.substring(1);
 
-            System.out.println(str.toString());
+            System.out.println(str1.toString());
         }
     }
 }
