@@ -14,6 +14,22 @@ public class compressString {
         ch = Character.toLowerCase(ch);
         return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
     }
+
+    static int[] getFlags (StringBuilder str) {
+        int consts[] = new int[str.length()];
+
+        for (int i = 0; i < str.length(); i++) {
+            if (!isVowel(str.charAt(i))) {
+                consts[i] = 1;
+            } else if (i > 0 && isVowel(str.charAt(i)) && str.charAt(i - 1) == str.charAt(i)) {
+                consts[i] = 2;
+            } else {
+                consts[i] = 0;
+            }
+        }
+
+        return consts;
+    }
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
 
@@ -21,21 +37,9 @@ public class compressString {
 
             System.out.println(strIn);
 
-            strIn = strIn.substring(0, 1).toUpperCase() + strIn.substring(1);
-
             StringBuilder str = new StringBuilder(strIn);
 
-            int consts[] = new int[str.length()];
-
-            for (int i = 0; i < str.length(); i++) {
-                if (!isVowel(str.charAt(i))) {
-                    consts[i] = 1;
-                } else if (i > 0 && isVowel(str.charAt(i)) && str.charAt(i - 1) == str.charAt(i)) {
-                    consts[i] = 2;
-                } else {
-                    consts[i] = 0;
-                }
-            }
+            int consts[] = getFlags(str);
 
             String out = "";
 
@@ -47,29 +51,30 @@ public class compressString {
             
             str = new StringBuilder(out);
 
-            for (int i = 0; i < str.length(); i++) {
-                if (consts[i] == 1) {
-                    int count = 0, temp = i;
-                    for (int j = i; j < str.length(); j++) {
-                        if (!isVowel(str.charAt(j))) {
-                            count++;
-                        } else {
-                            temp = j;
-                            break;
-                        }
-                    }
+            consts = getFlags(str);
 
-                    if (count > 1) {
-                        str.replace(i, temp, String.valueOf(count));
+            String temp = "";
+            int count = 0;
+
+            for (int i = 0; i < str.length(); i++) {
+                if (consts[i] == 0) {
+                    temp = temp + str.charAt(i);
+                    count = 0;
+                } else if (consts[i] == 1) {
+                    count = count + 1;
+                    str = str.deleteCharAt(i);
+                    
+                    if (consts[i + 1] == 0) {
+                        temp = temp + String.valueOf(count);
                     }
                 }
             }
 
-            System.out.println(Arrays.toString(consts));
+            String str1 = str.toString();
+
+            str1 = str1.substring(0, 1).toUpperCase() + str1.substring(1);
 
             System.out.println(str.toString());
-
-
         }
     }
 }
