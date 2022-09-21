@@ -1,4 +1,4 @@
-PlayerID,Year,Achievements,CoachName
+Player_ID,Year,Achievements,CoachName
 GD-11-MCSU,2010,,Teresa Obrien
 CF-73-AWDV,2010,,Richard Hernandez
 SL-37-GVYX,2010,,Jeffrey Avila
@@ -84,7 +84,7 @@ BW-63-EHYG,2010,,Victoria Martinez
 KZ-80-AJMS,2010,,Christian Bowen
 TJ-06-ATOI,2010,,Sean Alexander
 PG-13-YNZI,2010,,Francis Reed
-HR-92-EXFA,2010,,Tracy Baird
+HR-92-EXFA,2010,"Runner-Up of Collins LLC Chess Meet, 2010 | ",Tracy Baird
 BE-59-YWVU,2010,,Christina Gutierrez
 UA-70-DWGU,2010,,Gina Montgomery
 KH-67-NVBX,2010,,Michael Barton
@@ -212,7 +212,7 @@ NI-30-JZUN,2010,,Lucas Roberts
 IE-22-AYGD,2010,,Frank Cox
 GT-93-UEXV,2010,,Dave Lewis
 HT-23-CGEY,2010,,Eric Stark
-CL-99-MDQK,2010,,Wendy Gonzalez
+CL-99-MDQK,2010,"Winner of Collins LLC Chess Meet, 2010 | ",Wendy Gonzalez
 PA-94-DGDK,2010,,Scott Howard
 MH-09-ZFGF,2010,,Bruce Conrad
 BT-04-XKZP,2010,,Kimberly Turner
@@ -347,7 +347,7 @@ SV-18-YWJC,2010,,Antonio Brewer
 UZ-76-PUIL,2010,,Christopher Hernandez
 MX-98-VVZI,2010,,Clayton Chan
 NO-84-DPEU,2010,,Autumn Williams
-FM-22-VDMW,2010,,Elizabeth Cordova
+FM-22-VDMW,2010,"Runner-Up of Johnson-Edwards Chess Trials, 2010 | ",Elizabeth Cordova
 CD-88-MSMI,2010,,Veronica Newman
 LB-37-BHAT,2010,,Julian Ward
 GH-22-DFUB,2010,,Angela Rogers
@@ -446,7 +446,7 @@ JM-20-TIJG,2010,,Francisco Wallace
 SY-42-IETZ,2010,,Robert Stephens
 PS-19-TIXZ,2010,,Jonathan Allen
 NI-73-ZTKT,2010,,Daisy Martinez
-VU-48-PERH,2010,,Benjamin Campbell
+VU-48-PERH,2010,"Runner-Up of Phillips-Wright Chess Contest, 2010 | ",Benjamin Campbell
 LC-48-NEGN,2010,,Joshua Klein
 KM-95-MHMO,2010,,Michael Wilson
 SD-75-PFIX,2010,,Sharon Harvey
@@ -467,7 +467,7 @@ KI-98-LSMP,2010,,Jennifer Miles
 BN-22-TLUF,2010,,Carol Maxwell
 VN-94-CSIH,2010,,Olivia George
 TV-71-ICPP,2010,,Michael Cohen
-AZ-52-BQJG,2010,,John Mayo
+AZ-52-BQJG,2010,"Runner-Up of Johnson-Gray Chess Contest, 2010 | ",John Mayo
 PY-49-DJGY,2010,,Blake Thomas
 HU-69-FZHX,2010,,Beth Carrillo
 BN-49-RDKL,2010,,Joseph Newton
@@ -489,7 +489,7 @@ MW-38-DAHX,2010,,Morgan Waller
 MN-95-OVPM,2010,,Victor Gonzalez
 BA-23-NVEP,2010,,Virginia Arnold
 NG-99-YUCS,2010,,Kristy Cooper
-RO-69-VXQU,2010,,Jennifer Kim
+RO-69-VXQU,2010,"Winner of Harris Inc Chess Contest, 2010 | ",Jennifer Kim
 AM-68-GWDH,2010,,Lisa Harvey
 IQ-15-TKWO,2010,,Holly Morris
 CA-19-GXID,2010,,James Browning
@@ -519,7 +519,7 @@ AF-69-HFMC,2010,,Tina Freeman
 MM-94-GAKK,2010,,Kelly Cruz
 NA-11-RAHJ,2010,,Christine Harrison
 SY-65-XKKN,2010,,Dawn Watts
-JP-99-GFWY,2010,,Meghan Marshall
+JP-99-GFWY,2010,"Winner of Brown, Sellers and Barton Chess Competition, 2010 | ",Meghan Marshall
 CV-59-XNJX,2010,,Michael Bell
 LA-62-IRRP,2010,,Luke Reilly
 BA-37-NXXQ,2010,,Emily Sutton
@@ -532,7 +532,7 @@ CO-59-NGZJ,2010,,Gloria Reeves
 IQ-96-VYHN,2010,,Robert Aguirre
 CN-43-SMWC,2010,,Sharon Holmes
 AE-56-FABV,2010,,Matthew Floyd
-JO-06-BCRQ,2010,,Dennis Payne
+JO-06-BCRQ,2010,"Winner of Phillips-Wright Chess Contest, 2010 | ",Dennis Payne
 BJ-85-YNJC,2010,,Sarah Ramirez
 KR-79-YHPP,2010,,Claudia Harrington
 CR-35-DBMG,2010,,Heather Page
@@ -639,7 +639,7 @@ CM-09-CBAZ,2010,,Latasha Wright
 SZ-18-IVKX,2010,,Ariel Nelson
 OM-22-CIOD,2010,,Debbie Miller DVM
 MH-16-VWNX,2010,,Wendy Boyer
-PG-50-HCDS,2010,,Michael Santos
+PG-50-HCDS,2010,"Runner-Up of Harris Inc Chess Contest, 2010 | ",Michael Santos
 NR-28-FQRC,2010,,Jessica Green
 AZ-07-YJNZ,2010,,Kathryn Grant
 KM-08-LWJO,2010,,Jonathan Bradley
@@ -665,7 +665,7 @@ BN-55-CNIW,2010,,Mr. Nicholas Lewis
 RS-80-ZHEV,2010,,Juan Kennedy
 UG-59-KKOA,2010,,Chad Brown
 AT-94-IGON,2010,,Jerry Tanner
-TN-38-REWJ,2010,,Mercedes Rose DVM
+TN-38-REWJ,2010,"Winner of Cook, Garcia and Atkinson Chess Contest, 2010 | ",Mercedes Rose DVM
 LV-12-FOML,2010,,Robin Vasquez
 CU-95-ZQGX,2010,,Ryan Walker
 BH-50-QSRY,2010,,Chad Lawrence
@@ -685,7 +685,7 @@ SM-63-DIIA,2010,,Christopher Cooper
 MU-92-VDOA,2010,,Jordan Morales
 MT-69-ITDO,2010,,Andrea Wheeler
 MV-48-DARW,2010,,Nicole Parker
-CZ-22-CYFD,2010,,Mitchell Blair
+CZ-22-CYFD,2010,"Runner-Up of Wagner and Sons Chess Meet, 2010 | ",Mitchell Blair
 TG-34-TTYY,2010,,Jessica Monroe
 TJ-43-NYJH,2010,,Matthew Collins
 FI-37-VLTY,2010,,Katie Salas
@@ -693,9 +693,9 @@ SC-15-VCHI,2010,,Jessica Thornton
 RW-69-EHUD,2010,,Brianna Davis
 LA-50-ZYWU,2010,,Amy Stevens
 IL-93-ROJC,2010,,Cheryl Jones
-KW-48-QKZR,2010,,Thomas Black
+KW-48-QKZR,2010,"Winner of Roberts PLC Chess Contest, 2010 | ",Thomas Black
 IL-08-TRQH,2010,,Kim Carter
-ML-58-LWZA,2010,,Noah Ramsey
+ML-58-LWZA,2010,"Runner-Up of Thomas LLC Chess Meet, 2010 | ",Noah Ramsey
 VC-62-MFNA,2010,,Kathleen Williams
 BI-77-UROQ,2010,,Anna Carter
 IE-94-BGTR,2010,,Billy Stephens
@@ -776,7 +776,7 @@ MC-82-JFCT,2010,,Kent Arroyo Jr.
 CI-56-XHOS,2010,,Melissa Sosa
 LA-70-MDTX,2010,,Jose Gill
 NE-73-RRXM,2010,,Megan Hanson
-MU-70-KHZU,2010,,Jessica Bowman
+MU-70-KHZU,2010,"Winner of Mitchell, Williams and Lee Chess Tournament, 2010 | ",Jessica Bowman
 NG-36-DHRA,2010,,Joshua Rivera
 MZ-79-MBBF,2010,,Jessica Barber
 ZW-93-VSVB,2010,,Darrell Allen
@@ -818,7 +818,7 @@ DE-68-IWNT,2010,,Samantha Chapman
 SY-14-WSGM,2010,,Matthew Pruitt
 BH-88-JGCE,2010,,Sarah Lawson
 SD-93-SQIE,2010,,Janet Williams
-BJ-06-ORJP,2010,,Donald Flores
+BJ-06-ORJP,2010,"Winner of Owens PLC Chess Meet, 2010 | ",Donald Flores
 EC-34-CGCO,2010,,Ms. Brandi Gonzalez
 FJ-82-QNSB,2010,,Michael Hernandez
 VN-11-RXWA,2010,,Ashley Bradford
@@ -910,7 +910,7 @@ UG-35-LJYE,2010,,Angela Herrera
 EC-11-PQJJ,2010,,Matthew Nelson
 ET-82-RYEI,2010,,Penny Glass
 HT-58-MYDR,2010,,Benjamin Thompson
-BR-70-IPNJ,2010,,Michele Johnson
+BR-70-IPNJ,2010,"Runner-Up of Roberts PLC Chess Contest, 2010 | ",Michele Johnson
 TD-03-YBTE,2010,,Mary Hicks
 MN-13-NZOU,2010,,Jordan Gonzalez
 ET-81-DAXI,2010,,Jonathan Schultz
@@ -1018,7 +1018,7 @@ LC-66-IISK,2010,,Jeremy Patterson
 LY-46-QLPH,2010,,John Mccall
 BB-03-HTWI,2010,,Melissa Smith
 SI-61-FBZB,2010,,Dwayne Martin
-ET-29-QXHS,2010,,Angela Howard
+ET-29-QXHS,2010,"Runner-Up of Cook, Garcia and Atkinson Chess Contest, 2010 | ",Angela Howard
 AZ-42-RDAW,2010,,Anthony Shelton
 KW-17-NYKL,2010,,Mrs. Karla Fuentes
 KN-13-GZZK,2010,,Joshua Ford
@@ -1100,7 +1100,7 @@ PL-98-ZDRS,2010,,Andrew Johnson
 GD-85-TLEM,2010,,Benjamin Vega
 LV-02-CIOJ,2010,,Michelle Smith
 SE-35-XBVP,2010,,Brittany Davis
-MA-92-EERP,2010,,Gabrielle Robinson
+MA-92-EERP,2010,"Winner of Hill, Terrell and Moore Chess Contest, 2010 | ",Gabrielle Robinson
 NO-74-DVXP,2010,,Emily Fisher
 RW-41-AMAA,2010,,Christopher Phillips
 TN-99-QVSB,2010,,John Ward
@@ -1122,7 +1122,7 @@ PG-69-JLTR,2010,,Robyn Hernandez
 NG-85-LFGT,2010,,Andrea Stevens
 AZ-06-ZLTN,2010,,Sandra Johnson
 BF-99-FCXZ,2010,,Jessica Reynolds
-NZ-76-WYEI,2010,,Michael Reid
+NZ-76-WYEI,2010,"Runner-Up of Hill, Terrell and Moore Chess Contest, 2010 | ",Michael Reid
 GQ-75-PQJS,2010,,Thomas Robertson
 NI-47-FGTP,2010,,Russell Dixon
 GE-47-EWMY,2010,,Emily Melton
@@ -1137,7 +1137,7 @@ ER-47-BIJO,2010,,Carmen Walters
 MU-96-ZPYS,2010,,Cheryl Thomas
 TR-82-TCRJ,2010,,Jacqueline Johnson
 BD-88-NQUT,2010,,Elizabeth Brown
-LA-19-GLAU,2010,,Kelly Richard
+LA-19-GLAU,2010,"Winner of Johnson-Edwards Chess Trials, 2010 | ",Kelly Richard
 OM-87-DULZ,2010,,Robert Henry
 CM-36-ZQJV,2010,,Christopher Stevenson
 LI-93-NCTB,2010,,Mr. Zachary Howe
@@ -1223,14 +1223,14 @@ SR-90-HBWX,2010,,Taylor Arnold
 PY-65-BVHZ,2010,,Robin Conrad
 MU-88-UPGX,2010,,John Roberts
 ZA-43-RYVF,2010,,Logan Valencia
-KE-96-HYIH,2010,,Sara Vaughan
+KE-96-HYIH,2010,"Runner-Up of Mitchell, Williams and Lee Chess Tournament, 2010 | ",Sara Vaughan
 BG-96-BQRJ,2010,,James Gonzales
 HU-81-MOLT,2010,,William Martinez
 ES-70-NBZP,2010,,Emily Cox
 FM-53-RUUH,2010,,Jake Thompson
 SZ-14-WINI,2010,,Christina Harris
 AO-61-YBRQ,2010,,Stephen Robertson
-ZW-12-RGUU,2010,,Renee Wright
+ZW-12-RGUU,2010,"Winner of Johnson-Gray Chess Contest, 2010 | ",Renee Wright
 BZ-05-NMJK,2010,,Amanda Jones
 CO-04-ABZT,2010,,Julia Lewis
 SK-40-JPWZ,2010,,Sue Nunez
@@ -1274,7 +1274,7 @@ CA-14-JCRH,2010,,Jessica Hoffman
 AT-23-VEIS,2010,,Sharon Stevens
 NL-57-QGHK,2010,,Miss Jessica Robinson
 HN-85-KWJR,2010,,Crystal Meadows
-TG-24-SGBD,2010,,Frank King
+TG-24-SGBD,2010,"Runner-Up of Owens PLC Chess Meet, 2010 | ",Frank King
 BW-50-EZCB,2010,,Lisa Foster
 PE-51-GZQZ,2010,,Thomas Smith
 ZA-19-TXXE,2010,,Mark Lewis
@@ -1506,7 +1506,7 @@ AF-97-VZQG,2010,,Hannah Harrison
 BN-98-OSRX,2010,,Spencer Mcmahon
 GE-19-KBYQ,2010,,Deborah Williams
 DE-77-BMRR,2010,,Dale Grimes
-UZ-77-IBGD,2010,,Keith Taylor
+UZ-77-IBGD,2010,"Winner of Wagner and Sons Chess Meet, 2010 | ",Keith Taylor
 PA-76-HJXE,2010,,Roger Page
 BA-71-MJCD,2010,,Tammy Sanchez
 TR-75-AZQH,2010,,Mark Newton
@@ -1523,7 +1523,7 @@ NL-70-XUGG,2010,,Stacey Miller
 ST-44-PBJA,2010,,Kimberly Lewis
 KG-17-STQW,2010,,Timothy Flores
 ET-80-OLAF,2010,,Felicia Kennedy
-GY-62-VNAL,2010,,Matthew Lucas
+GY-62-VNAL,2010,"Winner of Thomas LLC Chess Meet, 2010 | ",Matthew Lucas
 MT-22-TMVD,2010,,Amanda Love
 IQ-44-DSTM,2010,,Justin Casey
 DO-68-VNGZ,2010,,Trevor Gonzalez
@@ -1542,7 +1542,7 @@ VN-41-HNEV,2010,,Jason Mckinney
 KH-06-NXMS,2010,,Katherine Jenkins
 BB-77-IFNE,2010,,Trevor Hill
 PK-23-DZBO,2010,,Wayne Fischer
-DE-93-JWFT,2010,,John Davis
+DE-93-JWFT,2010,"Winner of Jackson Inc Chess Contest, 2010 | ",John Davis
 CO-98-BBWZ,2010,,Daniel Grant
 BA-51-EOIN,2010,,Christopher Lee
 MW-67-GLLF,2010,,Deanna Haley
@@ -1558,7 +1558,7 @@ ZM-96-GNEC,2010,,Teresa Freeman
 BY-88-UYOA,2010,,Travis Miller
 KN-45-CBGC,2010,,Stacy Grant
 BD-49-QBOO,2010,,Janet Washington
-AM-28-UULE,2010,,Brandon Munoz
+AM-28-UULE,2010,"Runner-Up of Jackson Inc Chess Contest, 2010 | ",Brandon Munoz
 VC-54-LRXM,2010,,Steven George
 MD-21-AHVQ,2010,,Gregory Sloan
 SR-95-UIES,2010,,Eric Brock
@@ -1588,7 +1588,7 @@ KZ-98-HLSN,2010,,Justin Atkinson
 MX-98-ELYY,2010,,Matthew Jordan
 AM-14-OIUO,2010,,John Perry
 SZ-20-GYCG,2010,,Michelle Carrillo
-NI-25-MBLX,2010,,Jeffrey Jackson
+NI-25-MBLX,2010,"Runner-Up of Brown, Sellers and Barton Chess Competition, 2010 | ",Jeffrey Jackson
 AD-31-KBXC,2010,,Gabriel Sanchez
 EG-12-ZRNW,2010,,Kyle Lee
 BW-09-SSIG,2010,,Philip Knight
@@ -1688,7 +1688,7 @@ BN-21-QJHV,2010,,Carmen Patel
 CM-96-CDCJ,2010,,Sara Willis
 PG-05-XORC,2010,,Cody Lopez
 BE-95-XMPN,2010,,John Anderson
-GD-11-MCSU,2011,,Teresa Obrien
+GD-11-MCSU,2011,"Winner of Jones, Jones and Johnson Chess Trials, 2011 | ",Teresa Obrien
 CF-73-AWDV,2011,,Richard Hernandez
 SL-37-GVYX,2011,,Jeffrey Avila
 PE-42-UTAT,2011,,Steven Thomas
@@ -1743,7 +1743,7 @@ IR-30-ZMJJ,2011,,Deanna Davis
 MA-16-CPUF,2011,,Christopher Stevens
 NR-86-QALK,2011,,Ryan Leonard
 RU-15-XKLL,2011,,Kelly Ramirez
-CA-97-JDWO,2011,,Christopher Chambers
+CA-97-JDWO,2011,"Runner-Up of Proctor-White Chess Trials, 2011 | ",Christopher Chambers
 NO-72-SVLU,2011,,Justin Brewer
 PH-45-MUMM,2011,,Edward Ruiz
 ER-35-DGSN,2011,,Ethan Gonzalez
@@ -1867,7 +1867,7 @@ JM-55-CBGS,2011,,Brandy Nelson
 MA-82-FWUA,2011,,Curtis Jackson
 SR-00-WRRM,2011,,Sarah Moore
 MK-07-LPEW,2011,,Casey Garcia
-FI-01-HKOI,2011,,Suzanne Scott
+FI-01-HKOI,2011,"Winner of Proctor-White Chess Trials, 2011 | ",Suzanne Scott
 DM-15-DWFC,2011,,Daniel Moody
 CG-57-KABD,2011,,Crystal Carson
 TO-65-KRES,2011,,Sarah Hawkins
@@ -1948,7 +1948,7 @@ NG-21-ZCPD,2011,,Brittany Lloyd
 NI-37-XQHU,2011,,Shawn Brown
 MH-64-SWUB,2011,,Brian Curry
 BW-19-XADQ,2011,,Teresa Burke
-SD-28-AOMS,2011,,James Sawyer
+SD-28-AOMS,2011,"Runner-Up of Lowe, Gibson and Moore Chess Contest, 2011 | ",James Sawyer
 TO-54-KDWS,2011,,David Harris
 SZ-71-HBVJ,2011,,Diane Mccoy
 MT-21-KUBT,2011,,Lisa Wilson
@@ -1956,11 +1956,11 @@ IT-46-DBUT,2011,,Stephanie Lopez
 AD-32-VYQF,2011,,Jeremy Nguyen
 MD-14-IIUK,2011,,Zachary Burns
 JO-61-ISME,2011,,Tara Baker
-GQ-50-LDJI,2011,,Tonya Cruz
+GQ-50-LDJI,2011,"Runner-Up of Colon-Vincent Chess Tournament, 2011 | ",Tonya Cruz
 ET-13-MHOE,2011,,Travis Young
 MV-48-ETFK,2011,,Michael Brewer
 FM-33-IJGA,2011,,Krystal Carr
-NG-47-ACZZ,2011,,Mrs. Sarah Howe
+NG-47-ACZZ,2011,"Winner of Lowe, Gibson and Moore Chess Contest, 2011 | ",Mrs. Sarah Howe
 KZ-28-WDUJ,2011,,Alicia Perez
 IL-90-QBRO,2011,,Lauren Ballard
 GH-71-NSRF,2011,,Lindsey Hall
@@ -2479,7 +2479,7 @@ JM-42-KLDF,2011,,Leah Burke
 SR-67-VHCH,2011,,Rebecca Peterson
 AG-97-NEMJ,2011,,Gabrielle Becker
 RS-55-KLLS,2011,,Nicholas Garza
-AL-93-DZAC,2011,,Amanda Hart
+AL-93-DZAC,2011,"Winner of Lewis-Thomas Chess Competition, 2011 | ",Amanda Hart
 BN-72-BJCE,2011,,Annette Schroeder
 MD-75-GYZN,2011,,Crystal Hunt
 WS-18-TCPD,2011,,Theresa Yang
@@ -2550,7 +2550,7 @@ SD-77-LALV,2011,,Gina Wade
 ZA-32-GURW,2011,,Abigail Rivera
 NR-49-VHKA,2011,,Lisa Jackson
 IL-81-DHOY,2011,,Jennifer Welch
-CA-14-WUMB,2011,,Terrance Holden
+CA-14-WUMB,2011,"Winner of Joseph LLC Chess Contest, 2011 | ",Terrance Holden
 PW-76-XNVX,2011,,Jody Thompson
 DM-18-FUBG,2011,,Dr. Jeremy Roberts
 KH-20-ZDVW,2011,,Dr. Monica Chang
@@ -2605,7 +2605,7 @@ MN-13-NZOU,2011,,Jordan Gonzalez
 ET-81-DAXI,2011,,Jonathan Schultz
 AR-69-BRKM,2011,,Lauren Warren
 BR-52-SHSR,2011,,Dan Logan
-NG-11-QBLK,2011,,Joshua Bautista
+NG-11-QBLK,2011,"Winner of Andrews, Barry and Baldwin Chess Contest, 2011 | ",Joshua Bautista
 MT-49-BFEH,2011,,Hector Brady
 BH-55-MEHD,2011,,Beth Thompson
 CU-30-WQEY,2011,,Grant Edwards
@@ -2650,7 +2650,7 @@ KR-99-XTAX,2011,,Mr. Kevin West
 FR-98-VYNX,2011,,Mary Morrison
 BO-83-YXOQ,2011,,Gloria Jones
 SV-02-YOYK,2011,,Anthony Martinez
-KP-92-WHHD,2011,,Lauren Jackson
+KP-92-WHHD,2011,"Winner of Colon-Vincent Chess Tournament, 2011 | ",Lauren Jackson
 UA-56-FYJV,2011,,Angela Bowers
 SK-78-VGQZ,2011,,Sydney Burns
 BO-38-DLRD,2011,,Julie Martin
@@ -2743,8 +2743,8 @@ MA-95-TASQ,2011,,Leah Arnold
 GW-76-QGYB,2011,,Mr. Steven Lee
 ZA-79-CPEN,2011,,Donald Gray
 RU-12-TBEX,2011,,Nicole Barnes DVM
-ZA-63-AFKE,2011,,Emily Green
-MT-09-HWUI,2011,,Michael Ramos
+ZA-63-AFKE,2011,"Runner-Up of Lewis-Thomas Chess Competition, 2011 | ",Emily Green
+MT-09-HWUI,2011,"Runner-Up of Joseph LLC Chess Contest, 2011 | ",Michael Ramos
 HN-28-BCEI,2011,,Michael Hale
 MC-15-FKYK,2011,,Michael Koch
 CF-06-ZEEG,2011,,Victoria Carter
@@ -2802,7 +2802,7 @@ UZ-22-LBLR,2011,,Don Sexton
 CV-99-FGNW,2011,,Monica Cantu
 VE-41-UZNF,2011,,Amy Martinez
 SL-29-QYXZ,2011,,Angela Wells
-RO-02-KNLL,2011,,Timothy Farrell
+RO-02-KNLL,2011,"Runner-Up of Orr Inc Chess Contest, 2011 | ",Timothy Farrell
 UA-14-LFSU,2011,,Sarah Mendez
 MH-61-QXMW,2011,,Michael Anderson
 TM-36-BYBD,2011,,Dr. Kevin Hernandez
@@ -2820,7 +2820,7 @@ MC-08-WYZV,2011,,Michael Baldwin
 AM-85-GPCI,2011,,Kara Baker
 ST-12-WBAR,2011,,Robert Gordon
 TT-33-LKOS,2011,,Jennifer Oconnor
-IL-67-VJXO,2011,,Joseph Dennis
+IL-67-VJXO,2011,"Winner of Orr Inc Chess Contest, 2011 | ",Joseph Dennis
 BJ-03-TSJP,2011,,Kimberly Saunders
 ER-47-BIJO,2011,,Carmen Walters
 MU-96-ZPYS,2011,,Cheryl Thomas
@@ -2848,7 +2848,7 @@ VN-18-CKMK,2011,,John Martinez
 BR-08-LKMX,2011,,Teresa Gonzales
 RS-26-VHDS,2011,,Andrew Reed
 KP-72-IYPD,2011,,Tara Murphy
-BO-28-UZGW,2011,,Felicia Garrett
+BO-28-UZGW,2011,"Winner of Pope-Mcguire Chess Contest, 2011 | ",Felicia Garrett
 SR-81-VWAM,2011,,Cynthia Allen
 MY-38-UQSK,2011,,Ashley Roberts
 ZW-04-WDPZ,2011,,Bernard Lucas
@@ -2862,7 +2862,7 @@ DZ-83-XEOT,2011,,Timothy Garcia
 TG-64-TZON,2011,,Amber Kennedy
 CU-52-WCIE,2011,,Lindsay Lawrence
 SG-20-VHRI,2011,,Caroline Chang
-PW-73-NYFQ,2011,,Krista Anderson
+PW-73-NYFQ,2011,"Runner-Up of Pope-Mcguire Chess Contest, 2011 | ",Krista Anderson
 PG-54-ZYWF,2011,,Brandon Palmer
 ER-88-UZYU,2011,,Susan Hudson
 GD-19-RYPZ,2011,,Joann Cross
@@ -3045,7 +3045,7 @@ JM-29-NRCL,2011,,Brian Russell
 JP-86-TNMC,2011,,Cheryl Bailey
 LB-95-YDKY,2011,,Robert Mcdonald
 CO-50-IEWB,2011,,Mario Gentry
-FJ-29-CKSN,2011,,Robert Robinson
+FJ-29-CKSN,2011,"Runner-Up of Andrews, Barry and Baldwin Chess Contest, 2011 | ",Robert Robinson
 HU-29-AADI,2011,,Alejandra Winters
 TR-57-FTTI,2011,,Jerome Atkinson
 DK-43-OIHE,2011,,Xavier Curtis
@@ -3326,7 +3326,7 @@ HT-65-STBJ,2011,,Jeffrey Murphy
 ET-65-PYEQ,2011,,Andrea Ward
 BF-21-LCHW,2011,,James Miller
 BR-21-GLYP,2011,,Zachary Hartman
-RW-03-KJQW,2011,,Sharon Gross
+RW-03-KJQW,2011,"Runner-Up of Jones, Jones and Johnson Chess Trials, 2011 | ",Sharon Gross
 GB-56-OXTO,2011,,Jeremy Hernandez
 TV-66-OKEN,2011,,Tina Nash
 CM-63-PLMT,2011,,Katherine Kelly
@@ -3413,7 +3413,7 @@ CL-21-YPEN,2012,,Jodi Davis
 KE-92-WAHC,2012,,James Blair
 MW-96-PLJP,2012,,Amanda Thomas
 TJ-03-QKMC,2012,,Miguel Gross
-NG-37-TUDL,2012,,Charles Reed
+NG-37-TUDL,2012,"Runner-Up of Fisher, Anderson and Washington Chess Meet, 2012 | ",Charles Reed
 GD-24-YYDQ,2012,,Jessica Jones
 ER-91-BELR,2012,,Jonathon Fisher
 ET-94-PLBO,2012,,Pamela Gonzales
@@ -3545,7 +3545,7 @@ KP-79-KNIX,2012,,Gregory Stone
 AG-48-HPGN,2012,,Jill Graham
 ST-30-HUSL,2012,,Parker Edwards
 PE-09-NAMP,2012,,Michael Harris
-IT-29-BJGK,2012,,Brian Howell
+IT-29-BJGK,2012,"Runner-Up of Huang, Anderson and Dickerson Chess Competition, 2012 | ",Brian Howell
 SN-14-PSIN,2012,,Stephanie Morales
 IE-01-SHSI,2012,,Leonard Dunn
 LK-18-NOKN,2012,,Dr. Dawn Peterson MD
@@ -3631,7 +3631,7 @@ MN-49-ZUNY,2012,,Christopher King
 NG-80-XESM,2012,,Karen Armstrong
 SC-11-WJOH,2012,,Stephen Brown
 JM-01-RXGM,2012,,Alexis Sims
-NE-92-XYME,2012,,Audrey Lucas
+NE-92-XYME,2012,"Runner-Up of Espinoza LLC Chess Tournament, 2012 | ",Audrey Lucas
 BT-93-WUJN,2012,,Adrienne Russell
 NG-21-ZCPD,2012,,Brittany Lloyd
 NI-37-XQHU,2012,,Shawn Brown
@@ -3722,7 +3722,7 @@ AO-36-UXGU,2012,,Jessica Mercado
 AF-25-TBIB,2012,,Robin Lawson
 KM-64-KJOL,2012,,Sarah Henderson
 SV-18-YWJC,2012,,Antonio Brewer
-UZ-76-PUIL,2012,,Christopher Hernandez
+UZ-76-PUIL,2012,"Winner of Woods-Robinson Chess Tournament, 2012 | ",Christopher Hernandez
 MX-98-VVZI,2012,,Clayton Chan
 NO-84-DPEU,2012,,Autumn Williams
 FM-22-VDMW,2012,,Elizabeth Cordova
@@ -3785,7 +3785,7 @@ BH-58-RTHP,2012,,Edward Ballard
 FJ-10-XHGD,2012,,Scott Garcia
 EG-79-KPJE,2012,,Samantha Ward
 NA-40-NCFW,2012,,Timothy Santos
-EG-45-KQTW,2012,,Deanna Patterson
+EG-45-KQTW,2012,"Runner-Up of Woods-Robinson Chess Tournament, 2012 | ",Deanna Patterson
 LC-34-NNOB,2012,,Daniel Mitchell
 ZW-41-FZKV,2012,,Lisa Garcia
 PL-36-HMRX,2012,,Terry Day
@@ -3867,7 +3867,7 @@ MW-38-DAHX,2012,,Morgan Waller
 MN-95-OVPM,2012,,Victor Gonzalez
 BA-23-NVEP,2012,,Virginia Arnold
 NG-99-YUCS,2012,,Kristy Cooper
-RO-69-VXQU,2012,,Jennifer Kim
+RO-69-VXQU,2012,"Winner of Espinoza LLC Chess Tournament, 2012 | ",Jennifer Kim
 AM-68-GWDH,2012,,Lisa Harvey
 IQ-15-TKWO,2012,,Holly Morris
 CA-19-GXID,2012,,James Browning
@@ -3886,7 +3886,7 @@ NA-46-GVZK,2012,,Dana Hubbard
 VC-50-FOBA,2012,,Gail Johnson
 VU-55-UOPU,2012,,Martha Bennett
 MV-91-OAAA,2012,,Diana Graves
-CU-76-MLNB,2012,,John Lloyd
+CU-76-MLNB,2012,"Runner-Up of Butler Ltd Chess Trials, 2012 | ",John Lloyd
 GY-94-LKXY,2012,,Mariah Farmer
 RW-20-TSOS,2012,,Austin Stanton
 BD-98-WWDG,2012,,Annette Lee
@@ -4155,7 +4155,7 @@ CI-56-XHOS,2012,,Melissa Sosa
 LA-70-MDTX,2012,,Jose Gill
 NE-73-RRXM,2012,,Megan Hanson
 MU-70-KHZU,2012,,Jessica Bowman
-NG-36-DHRA,2012,,Joshua Rivera
+NG-36-DHRA,2012,"Winner of Butler Ltd Chess Trials, 2012 | ",Joshua Rivera
 MZ-79-MBBF,2012,,Jessica Barber
 ZW-93-VSVB,2012,,Darrell Allen
 EG-71-LFNL,2012,,Timothy Powell
@@ -4193,7 +4193,7 @@ BI-78-VXJT,2012,,Kim Warren
 HN-35-FPTA,2012,,Matthew Weaver
 MD-14-SDGN,2012,,Jessica Schneider
 DE-68-IWNT,2012,,Samantha Chapman
-SY-14-WSGM,2012,,Matthew Pruitt
+SY-14-WSGM,2012,"Runner-Up of Walker PLC Chess Competition, 2012 | ",Matthew Pruitt
 BH-88-JGCE,2012,,Sarah Lawson
 SD-93-SQIE,2012,,Janet Williams
 BJ-06-ORJP,2012,,Donald Flores
@@ -4236,10 +4236,10 @@ BR-83-VHME,2012,,Michael Sweeney
 VN-99-JJHD,2012,,Jennifer Brown
 EC-78-ASHQ,2012,,Tonya Brown
 SD-77-LALV,2012,,Gina Wade
-ZA-32-GURW,2012,,Abigail Rivera
+ZA-32-GURW,2012,"Winner of Walker PLC Chess Competition, 2012 | ",Abigail Rivera
 NR-49-VHKA,2012,,Lisa Jackson
 IL-81-DHOY,2012,,Jennifer Welch
-CA-14-WUMB,2012,,Terrance Holden
+CA-14-WUMB,2012,"Winner of Morris Group Chess Trials, 2012 | ",Terrance Holden
 PW-76-XNVX,2012,,Jody Thompson
 DM-18-FUBG,2012,,Dr. Jeremy Roberts
 KH-20-ZDVW,2012,,Dr. Monica Chang
@@ -4283,7 +4283,7 @@ IE-58-HOPB,2012,,Teresa Smith
 UZ-66-SKMG,2012,,Victor Garcia
 MZ-39-OAFJ,2012,,Dennis Scott
 PS-45-IOXW,2012,,Michelle Moran
-BD-82-HULJ,2012,,Rebecca Garcia
+BD-82-HULJ,2012,"Winner of Bass, Schultz and Miller Chess Contest, 2012 | ",Rebecca Garcia
 UG-35-LJYE,2012,,Angela Herrera
 EC-11-PQJJ,2012,,Matthew Nelson
 ET-82-RYEI,2012,,Penny Glass
@@ -4396,7 +4396,7 @@ LC-66-IISK,2012,,Jeremy Patterson
 LY-46-QLPH,2012,,John Mccall
 BB-03-HTWI,2012,,Melissa Smith
 SI-61-FBZB,2012,,Dwayne Martin
-ET-29-QXHS,2012,,Angela Howard
+ET-29-QXHS,2012,"Winner of Huang, Anderson and Dickerson Chess Competition, 2012 | ",Angela Howard
 AZ-42-RDAW,2012,,Anthony Shelton
 KW-17-NYKL,2012,,Mrs. Karla Fuentes
 KN-13-GZZK,2012,,Joshua Ford
@@ -4522,7 +4522,7 @@ LI-93-NCTB,2012,,Mr. Zachary Howe
 BH-27-YPJV,2012,,Heather Carroll
 PH-90-YDPQ,2012,,Jessica Adams
 RU-26-KYLA,2012,,Alan Martinez MD
-JM-44-WTYE,2012,,Jonathan Hernandez
+JM-44-WTYE,2012,"Runner-Up of Bass, Schultz and Miller Chess Contest, 2012 | ",Jonathan Hernandez
 AZ-14-HZPJ,2012,,Justin Martinez
 TH-96-PQPJ,2012,,Sheryl Bryan
 SN-97-BNDU,2012,,Ann Zimmerman
@@ -4557,7 +4557,7 @@ ER-88-UZYU,2012,,Susan Hudson
 GD-19-RYPZ,2012,,Joann Cross
 PY-06-YSLX,2012,,Roberto Fuller
 MK-27-AOPO,2012,,Andrew White
-UG-63-VKPB,2012,,Antonio Mercado
+UG-63-VKPB,2012,"Winner of Fisher, Anderson and Washington Chess Meet, 2012 | ",Antonio Mercado
 MM-79-JUJB,2012,,Miranda Rodriguez
 SD-82-GSZV,2012,,Dean Beard
 SR-76-VCJL,2012,,Terry Davis
@@ -4892,7 +4892,7 @@ KP-41-IPDM,2012,,Richard Weiss
 SK-71-SAEO,2012,,Brian Tran
 TW-18-ZGXM,2012,,Katelyn Anderson
 GB-72-VKIS,2012,,Jennifer Campbell
-RW-85-LQSM,2012,,Matthew Mcbride
+RW-85-LQSM,2012,"Winner of Thomas, Peterson and Bryan Chess Tournament, 2012 | ",Matthew Mcbride
 MG-37-UALP,2012,,Erin Baker
 BG-01-TZGG,2012,,Kenneth Daniels
 MK-78-NATN,2012,,Gabriel Leonard
@@ -5001,7 +5001,7 @@ JM-66-ABLC,2012,,Zachary Flores
 VC-25-ZVJG,2012,,Kelly Flores
 CO-30-SNMV,2012,,Anne Wise
 DZ-84-RQTE,2012,,Gloria Ponce
-MY-91-HSGH,2012,,Annette Roman
+MY-91-HSGH,2012,"Runner-Up of Morris Group Chess Trials, 2012 | ",Annette Roman
 NZ-30-JOCM,2012,,Melissa Brown
 TJ-26-HMOE,2012,,Ryan Herrera
 VU-87-JQIT,2012,,Heather Barnes
@@ -5050,7 +5050,7 @@ SC-05-ZGYQ,2012,,Ryan Carr
 LV-35-EOEK,2012,,John Daugherty
 HR-26-QRZW,2012,,Charles Hartman
 SO-44-MDUD,2012,,Thomas Mendez
-ZM-66-GMRS,2012,,Kimberly Barker
+ZM-66-GMRS,2012,"Runner-Up of Thomas, Peterson and Bryan Chess Tournament, 2012 | ",Kimberly Barker
 TR-18-YTFY,2012,,Jessica Arnold
 MY-31-DTQW,2012,,Jerry Mitchell
 MD-86-NQEC,2012,,Anna Stevens
@@ -5099,7 +5099,7 @@ AG-01-UXIE,2013,,Lynn Schneider
 BA-46-HOBD,2013,,Tina James
 LK-48-GFAN,2013,,Melissa Hatfield
 CL-21-YPEN,2013,,Jodi Davis
-KE-92-WAHC,2013,,James Blair
+KE-92-WAHC,2013,"Runner-Up of Ryan-Bryan Chess Competition, 2013 | ",James Blair
 MW-96-PLJP,2013,,Amanda Thomas
 TJ-03-QKMC,2013,,Miguel Gross
 NG-37-TUDL,2013,,Charles Reed
@@ -5281,16 +5281,16 @@ GT-93-UEXV,2013,,Dave Lewis
 HT-23-CGEY,2013,,Eric Stark
 CL-99-MDQK,2013,,Wendy Gonzalez
 PA-94-DGDK,2013,,Scott Howard
-MH-09-ZFGF,2013,,Bruce Conrad
+MH-09-ZFGF,2013,"Winner of Suarez, Lynch and Morgan Chess Competition, 2013 | ",Bruce Conrad
 BT-04-XKZP,2013,,Kimberly Turner
 MA-39-SMRE,2013,,Kristine Smith
 EG-78-AHXC,2013,,Stephanie Wright
 CL-65-CKDM,2013,,Vanessa Hayden
 CA-53-GNFL,2013,,Pamela Nichols
 KH-82-ICJX,2013,,John House
-CD-50-SWAD,2013,,Jennifer Williams
+CD-50-SWAD,2013,"Runner-Up of Bradley-Zuniga Chess Trials, 2013 | ",Jennifer Williams
 FR-30-LOLT,2013,,Sherry Jackson
-PE-54-VINF,2013,,Taylor Figueroa
+PE-54-VINF,2013,"Winner of Acosta Group Chess Contest, 2013 | ",Taylor Figueroa
 KR-53-KGEF,2013,,Molly Duncan
 ZM-40-TWCT,2013,,Kayla Mclaughlin
 VU-40-ZJPK,2013,,Nicole Wagner
@@ -5364,7 +5364,7 @@ NE-84-FQHN,2013,,Chloe Crawford
 PW-94-JYTG,2013,,Stephen Edwards
 CV-71-GBTB,2013,,Joseph Byrd
 TJ-09-NGZJ,2013,,Kristi Clay
-GR-21-PAOS,2013,,Billy Thompson
+GR-21-PAOS,2013,"Winner of Miller, Pratt and Reed Chess Contest, 2013 | ",Billy Thompson
 TH-53-BZPN,2013,,Sarah Garcia
 ML-47-ERUL,2013,,Sean Gonzalez
 KH-54-UEWK,2013,,Kenneth Levine
@@ -5434,7 +5434,7 @@ JP-16-XBQG,2013,,Deborah Marshall
 TG-08-RKXC,2013,,Andrea Mills
 SN-41-TRJN,2013,,Elizabeth Phillips
 PW-68-ORKK,2013,,Michele Decker
-ZW-72-BOGZ,2013,,Tiffany Martin
+ZW-72-BOGZ,2013,"Winner of Houston-Mills Chess Contest, 2013 | ",Tiffany Martin
 IQ-13-ABAP,2013,,James Bailey
 MT-37-YKWD,2013,,Heather Howard
 PH-26-VUWV,2013,,Tony Mccann
@@ -5494,7 +5494,7 @@ LC-27-YQQR,2013,,Cheryl Hamilton
 KM-89-OFFN,2013,,William Hernandez
 TH-12-VIPL,2013,,Christopher Mcintosh
 GE-85-RBIX,2013,,Taylor Mayer
-TL-26-UMMW,2013,,John Shannon
+TL-26-UMMW,2013,"Winner of Smith-Carrillo Chess Tournament, 2013 | ",John Shannon
 BS-61-NSGV,2013,,Amber Donovan
 FI-05-MPBO,2013,,Laura Lewis
 NP-99-YKVS,2013,,Robert Poole
@@ -5580,7 +5580,7 @@ GY-94-LKXY,2013,,Mariah Farmer
 RW-20-TSOS,2013,,Austin Stanton
 BD-98-WWDG,2013,,Annette Lee
 IL-99-SHGV,2013,,Shawn Oliver
-CN-69-QVTU,2013,,Matthew Hill
+CN-69-QVTU,2013,"Runner-Up of Miller, Pratt and Reed Chess Contest, 2013 | ",Matthew Hill
 CF-07-SYLY,2013,,Stephanie White
 AF-69-HFMC,2013,,Tina Freeman
 MM-94-GAKK,2013,,Kelly Cruz
@@ -5722,7 +5722,7 @@ BI-10-NMCP,2013,,Jose Hopkins
 BI-84-NKZZ,2013,,Joy Goodwin
 GN-18-AWSX,2013,,Joel Leblanc
 TJ-37-LQRS,2013,,Melanie Fitzgerald
-BO-80-HVBC,2013,,Whitney Ramsey
+BO-80-HVBC,2013,"Runner-Up of Acosta Group Chess Contest, 2013 | ",Whitney Ramsey
 FJ-36-CNXV,2013,,Brandon Bailey
 UZ-13-DHOJ,2013,,Bonnie Mitchell
 CG-70-QSYV,2013,,Melissa Smith
@@ -5788,7 +5788,7 @@ LS-71-ZVSS,2013,,Jonathan Ramirez
 SL-93-QYCC,2013,,Ashley Steele
 NE-54-DDRD,2013,,Stephanie Harrison
 BR-80-TQIB,2013,,Lauren Carlson
-PL-47-HGTS,2013,,Allison Guerra
+PL-47-HGTS,2013,"Runner-Up of Burton, Johnson and Winters Chess Competition, 2013 | ",Allison Guerra
 WS-92-OJKT,2013,,Tracy Snyder
 MD-24-QYXD,2013,,Nicholas Wallace
 NI-77-VFIK,2013,,Patricia Rodriguez
@@ -5821,7 +5821,7 @@ CZ-22-DYXP,2013,,John Patel
 DO-06-SZXB,2013,,Lori Rodriguez
 ST-63-DKKG,2013,,Tiffany Gonzalez
 GN-85-LPDN,2013,,Kerry Pena
-TN-21-HHWB,2013,,Mandy Franklin
+TN-21-HHWB,2013,"Runner-Up of Houston-Mills Chess Contest, 2013 | ",Mandy Franklin
 SR-50-BQER,2013,,Gina Hoffman
 CR-66-CATP,2013,,Carol Brandt
 BI-20-KXEQ,2013,,Shane Armstrong
@@ -5829,7 +5829,7 @@ BW-58-UIKE,2013,,Wayne Brooks
 LK-75-YSNS,2013,,Michelle Greer
 NO-45-THSK,2013,,Gloria Vincent
 GY-02-EHWB,2013,,Kimberly Stone
-TO-10-WCBZ,2013,,Willie Kramer
+TO-10-WCBZ,2013,"Winner of Bradley-Zuniga Chess Trials, 2013 | ",Willie Kramer
 UA-54-XZBT,2013,,Debra Murphy
 HR-56-RZKZ,2013,,Nathan Spencer
 CG-19-MVQJ,2013,,Jasmine Padilla
@@ -6007,7 +6007,7 @@ MC-66-WXWW,2013,,Angela Foster
 NE-33-NJWK,2013,,Shannon Hill
 MM-91-VQZW,2013,,Anna Simmons
 GB-66-PTAS,2013,,Mr. Michael Johnson
-TV-44-ECLZ,2013,,Christopher Stevens
+TV-44-ECLZ,2013,"Runner-Up of Smith-Carrillo Chess Tournament, 2013 | ",Christopher Stevens
 LV-35-BIGE,2013,,Sandra Jackson
 AZ-48-YPXQ,2013,,Matthew James
 GD-55-PKIA,2013,,Michael Fisher
@@ -6350,7 +6350,7 @@ ZW-74-DXBY,2013,,Caleb Nelson
 TM-35-JNGO,2013,,John Watkins
 SL-02-WZNK,2013,,Matthew Conway
 MC-27-FKKV,2013,,Jaime Romero
-TJ-60-ISZX,2013,,Mr. Cameron Davis
+TJ-60-ISZX,2013,"Winner of Ryan-Bryan Chess Competition, 2013 | ",Mr. Cameron Davis
 KZ-16-XSZD,2013,,Melissa Brown
 SM-32-EXUF,2013,,William Edwards
 BA-96-BTKS,2013,,Scott Yates
@@ -6473,7 +6473,7 @@ AD-79-YSPZ,2013,,Daniel Boyd
 TH-41-ZNWM,2013,,Norma Phillips
 GH-54-LLPG,2013,,Shawn Underwood
 AE-40-YCAI,2013,,Sarah Jenkins
-CU-98-EPQF,2013,,Jennifer Nielsen
+CU-98-EPQF,2013,"Runner-Up of Suarez, Lynch and Morgan Chess Competition, 2013 | ",Jennifer Nielsen
 MV-69-PAUV,2013,,Andrea Grant
 SZ-77-EHSK,2013,,Jessica James
 BJ-13-XTDN,2013,,Timothy Combs
@@ -6637,7 +6637,7 @@ HU-09-FECM,2013,,Marcus Harris
 CZ-60-WFMK,2013,,Justin Joseph
 NP-69-EVNC,2013,,Ashley Carlson
 GR-60-EKME,2013,,Mrs. Deanna Harrison DVM
-CR-73-CPVJ,2013,,Andrew Peterson
+CR-73-CPVJ,2013,"Runner-Up of Prince-Sheppard Chess Trials, 2013 | ",Andrew Peterson
 TN-75-CJTD,2013,,Jessica Ramirez
 LI-06-QSBU,2013,,Cynthia Miller
 CV-05-CPVI,2013,,Aaron Lee
@@ -6660,7 +6660,7 @@ AD-31-KBXC,2013,,Gabriel Sanchez
 EG-12-ZRNW,2013,,Kyle Lee
 BW-09-SSIG,2013,,Philip Knight
 BJ-22-XLWE,2013,,Anna Fitzgerald
-LI-51-NUUA,2013,,Philip Black
+LI-51-NUUA,2013,"Winner of Prince-Sheppard Chess Trials, 2013 | ",Philip Black
 GD-41-FXUY,2013,,Jennifer Miller
 MU-33-POEY,2013,,Dana Jones
 BD-45-CDCM,2013,,Amanda Ruiz
@@ -6737,7 +6737,7 @@ TM-31-YVUM,2013,,Joshua Murray
 SN-23-HTCJ,2013,,Morgan Rogers
 SC-05-ZGYQ,2013,,Ryan Carr
 LV-35-EOEK,2013,,John Daugherty
-HR-26-QRZW,2013,,Charles Hartman
+HR-26-QRZW,2013,"Winner of Burton, Johnson and Winters Chess Competition, 2013 | ",Charles Hartman
 SO-44-MDUD,2013,,Thomas Mendez
 ZM-66-GMRS,2013,,Kimberly Barker
 TR-18-YTFY,2013,,Jessica Arnold
@@ -6813,7 +6813,7 @@ RU-15-XKLL,2014,,Kelly Ramirez
 CA-97-JDWO,2014,,Christopher Chambers
 NO-72-SVLU,2014,,Justin Brewer
 PH-45-MUMM,2014,,Edward Ruiz
-ER-35-DGSN,2014,,Ethan Gonzalez
+ER-35-DGSN,2014,"Winner of Ramos PLC Chess Trials, 2014 | ",Ethan Gonzalez
 CR-08-ARCA,2014,,Jose Jones
 SI-27-BNDV,2014,,Nathan Harrison
 IQ-86-FKRC,2014,,William Colon
@@ -6852,8 +6852,8 @@ NR-35-OKYO,2014,,Thomas Lopez
 KW-99-OALO,2014,,Marc Frazier
 CI-56-JEEV,2014,,Jeremy Fox
 US-09-BLZO,2014,,Chris Hart
-PA-55-KOZI,2014,,Victoria Ayers
-FI-18-FWJQ,2014,,Tammy Davis
+PA-55-KOZI,2014,"Winner of Lee-Steele Chess Tournament, 2014 | ",Victoria Ayers
+FI-18-FWJQ,2014,"Runner-Up of Wilson Ltd Chess Contest, 2014 | ",Tammy Davis
 MU-19-DRUS,2014,,Walter Spencer
 SZ-36-IVIJ,2014,,Erin Robinson
 TJ-36-OYEE,2014,,Douglas Miller
@@ -6915,7 +6915,7 @@ RS-70-OFJF,2014,,Patrick Miller
 ES-82-PEDA,2014,,Antonio Orr
 UA-69-MXFG,2014,,Tracy Scott
 BH-28-ZNFO,2014,,Chris Landry
-NZ-13-IKUU,2014,,Robert Cooper
+NZ-13-IKUU,2014,"Winner of Wilson Ltd Chess Contest, 2014 | ",Robert Cooper
 ER-07-BIIT,2014,,Terry Miller
 QA-92-PBXC,2014,,Cassandra Brown
 ST-50-RCEL,2014,,Mr. Scott Davis
@@ -7288,7 +7288,7 @@ CO-59-NGZJ,2014,,Gloria Reeves
 IQ-96-VYHN,2014,,Robert Aguirre
 CN-43-SMWC,2014,,Sharon Holmes
 AE-56-FABV,2014,,Matthew Floyd
-JO-06-BCRQ,2014,,Dennis Payne
+JO-06-BCRQ,2014,"Winner of Jones, Contreras and Mcdaniel Chess Competition, 2014 | ",Dennis Payne
 BJ-85-YNJC,2014,,Sarah Ramirez
 KR-79-YHPP,2014,,Claudia Harrington
 CR-35-DBMG,2014,,Heather Page
@@ -7339,7 +7339,7 @@ PA-38-JZMG,2014,,Joshua Neal
 NL-82-UTBZ,2014,,Shelia Small
 SC-53-QRHA,2014,,Larry Barnes
 SG-54-HEWM,2014,,Ryan Gallagher
-MT-88-NPHV,2014,,John Moss
+MT-88-NPHV,2014,"Winner of Norris-Christensen Chess Contest, 2014 | ",John Moss
 SC-88-LJIZ,2014,,Alan Strickland
 HR-08-GBYE,2014,,Miss Carrie Fox MD
 NZ-62-MZRT,2014,,Selena Brady
@@ -7388,11 +7388,11 @@ FR-02-ATGN,2014,,Marissa Wilson
 EE-04-PAHB,2014,,Alex Garcia
 VU-07-ONBD,2014,,Jennifer Duran
 KW-02-RCOX,2014,,Tina Roy
-SC-79-IMIA,2014,,Cameron Clarke MD
+SC-79-IMIA,2014,"Winner of Ramirez-Johnson Chess Trials, 2014 | ",Cameron Clarke MD
 EE-96-XRNI,2014,,Duane Hudson
 US-35-DAAF,2014,,Shelia Fleming
 CM-09-CBAZ,2014,,Latasha Wright
-SZ-18-IVKX,2014,,Ariel Nelson
+SZ-18-IVKX,2014,"Runner-Up of Williams, Shannon and Lopez Chess Trials, 2014 | ",Ariel Nelson
 OM-22-CIOD,2014,,Debbie Miller DVM
 MH-16-VWNX,2014,,Wendy Boyer
 PG-50-HCDS,2014,,Michael Santos
@@ -7419,9 +7419,9 @@ TR-83-IUSL,2014,,Karen Wright
 AU-83-PSJE,2014,,Michelle Ryan
 BN-55-CNIW,2014,,Mr. Nicholas Lewis
 RS-80-ZHEV,2014,,Juan Kennedy
-UG-59-KKOA,2014,,Chad Brown
+UG-59-KKOA,2014,"Winner of Aguilar LLC Chess Tournament, 2014 | ",Chad Brown
 AT-94-IGON,2014,,Jerry Tanner
-TN-38-REWJ,2014,,Mercedes Rose DVM
+TN-38-REWJ,2014,"Winner of Mccall-Long Chess Meet, 2014 | ",Mercedes Rose DVM
 LV-12-FOML,2014,,Robin Vasquez
 CU-95-ZQGX,2014,,Ryan Walker
 BH-50-QSRY,2014,,Chad Lawrence
@@ -7455,7 +7455,7 @@ ML-58-LWZA,2014,,Noah Ramsey
 VC-62-MFNA,2014,,Kathleen Williams
 BI-77-UROQ,2014,,Anna Carter
 IE-94-BGTR,2014,,Billy Stephens
-NG-01-RUQF,2014,,Jessica Ortiz
+NG-01-RUQF,2014,"Runner-Up of Mccall-Long Chess Meet, 2014 | ",Jessica Ortiz
 NA-44-SQUC,2014,,Teresa Mcdonald
 SR-35-JROD,2014,,Richard Gilmore
 CZ-62-HVEF,2014,,Peggy Lara
@@ -7469,7 +7469,7 @@ DM-80-MVRG,2014,,Heather Howell
 SI-02-EIYU,2014,,Brian Bradley
 JO-99-VLVK,2014,,Dr. Debra Marshall
 MR-09-ZMKW,2014,,Christine Ross
-DZ-43-MXBX,2014,,Bryan Arnold
+DZ-43-MXBX,2014,"Winner of Armstrong, Cooper and Owens Chess Tournament, 2014 | ",Bryan Arnold
 JM-41-XOJL,2014,,Sheila Shaffer
 NG-56-QCAJ,2014,,James Oconnell DDS
 LS-78-EMSJ,2014,,Stephanie Salinas
@@ -7522,7 +7522,7 @@ TO-10-WCBZ,2014,,Willie Kramer
 UA-54-XZBT,2014,,Debra Murphy
 HR-56-RZKZ,2014,,Nathan Spencer
 CG-19-MVQJ,2014,,Jasmine Padilla
-CZ-97-YSVT,2014,,Rachael Stanton
+CZ-97-YSVT,2014,"Runner-Up of Aguilar LLC Chess Tournament, 2014 | ",Rachael Stanton
 ZM-66-ZVXP,2014,,Matthew Roach
 GT-15-OKCZ,2014,,Donald Ramos
 PW-04-ZMXI,2014,,Maria Mcdonald
@@ -7575,7 +7575,7 @@ SY-14-WSGM,2014,,Matthew Pruitt
 BH-88-JGCE,2014,,Sarah Lawson
 SD-93-SQIE,2014,,Janet Williams
 BJ-06-ORJP,2014,,Donald Flores
-EC-34-CGCO,2014,,Ms. Brandi Gonzalez
+EC-34-CGCO,2014,"Winner of Williams, Shannon and Lopez Chess Trials, 2014 | ",Ms. Brandi Gonzalez
 FJ-82-QNSB,2014,,Michael Hernandez
 VN-11-RXWA,2014,,Ashley Bradford
 TO-67-VSWK,2014,,Anthony Williams
@@ -7658,7 +7658,7 @@ KM-89-YXAC,2014,,Casey Conway
 KR-51-CACQ,2014,,Kyle Joyce
 SD-86-YRUA,2014,,Angela Golden
 IE-58-HOPB,2014,,Teresa Smith
-UZ-66-SKMG,2014,,Victor Garcia
+UZ-66-SKMG,2014,"Runner-Up of Norris-Christensen Chess Contest, 2014 | ",Victor Garcia
 MZ-39-OAFJ,2014,,Dennis Scott
 PS-45-IOXW,2014,,Michelle Moran
 BD-82-HULJ,2014,,Rebecca Garcia
@@ -7668,11 +7668,11 @@ ET-82-RYEI,2014,,Penny Glass
 HT-58-MYDR,2014,,Benjamin Thompson
 BR-70-IPNJ,2014,,Michele Johnson
 TD-03-YBTE,2014,,Mary Hicks
-MN-13-NZOU,2014,,Jordan Gonzalez
+MN-13-NZOU,2014,"Runner-Up of Hopkins-Atkins Chess Contest, 2014 | Winner of Ruiz-Ayala Chess Tournament, 2014 | ",Jordan Gonzalez
 ET-81-DAXI,2014,,Jonathan Schultz
 AR-69-BRKM,2014,,Lauren Warren
 BR-52-SHSR,2014,,Dan Logan
-NG-11-QBLK,2014,,Joshua Bautista
+NG-11-QBLK,2014,"Winner of Key-Smith Chess Meet, 2014 | ",Joshua Bautista
 MT-49-BFEH,2014,,Hector Brady
 BH-55-MEHD,2014,,Beth Thompson
 CU-30-WQEY,2014,,Grant Edwards
@@ -7729,7 +7729,7 @@ NO-65-LJMU,2014,,Joseph Martin
 SD-28-QOIB,2014,,Natalie Gonzalez
 MA-93-JTIO,2014,,Tonya Bell
 NR-83-KYNS,2014,,Stephanie Peters
-PE-10-NYQC,2014,,Lisa Dixon
+PE-10-NYQC,2014,"Runner-Up of Key-Smith Chess Meet, 2014 | ",Lisa Dixon
 SY-24-YDRN,2014,,Tracie Arnold
 AG-73-JFQO,2014,,Teresa Castillo
 BD-72-HBHB,2014,,Stacey Hart
@@ -7771,7 +7771,7 @@ NR-41-BBOC,2014,,David Jensen
 RW-90-WHNJ,2014,,Jamie Diaz
 MT-20-OITS,2014,,Heather Hayes
 LC-66-IISK,2014,,Jeremy Patterson
-LY-46-QLPH,2014,,John Mccall
+LY-46-QLPH,2014,"Runner-Up of Lee-Steele Chess Tournament, 2014 | ",John Mccall
 BB-03-HTWI,2014,,Melissa Smith
 SI-61-FBZB,2014,,Dwayne Martin
 ET-29-QXHS,2014,,Angela Howard
@@ -7839,7 +7839,7 @@ MW-44-HIYQ,2014,,Kelly Ward
 DZ-35-ERQV,2014,,Heather Wyatt
 KR-51-RUDU,2014,,Julie Nguyen
 LK-75-BGAP,2014,,Michael Wise
-CD-05-WIYT,2014,,Angela Carpenter
+CD-05-WIYT,2014,"Runner-Up of Ruiz-Ayala Chess Tournament, 2014 | ",Angela Carpenter
 SV-19-KCVX,2014,,Mr. Adam Smith
 VC-44-LZUP,2014,,Jennifer May
 MT-21-RVEF,2014,,Michael Haley
@@ -7893,7 +7893,7 @@ ER-47-BIJO,2014,,Carmen Walters
 MU-96-ZPYS,2014,,Cheryl Thomas
 TR-82-TCRJ,2014,,Jacqueline Johnson
 BD-88-NQUT,2014,,Elizabeth Brown
-LA-19-GLAU,2014,,Kelly Richard
+LA-19-GLAU,2014,"Runner-Up of Ramirez-Johnson Chess Trials, 2014 | ",Kelly Richard
 OM-87-DULZ,2014,,Robert Henry
 CM-36-ZQJV,2014,,Christopher Stevenson
 LI-93-NCTB,2014,,Mr. Zachary Howe
@@ -7914,7 +7914,7 @@ MZ-21-BDAZ,2014,,April Thompson
 VN-18-CKMK,2014,,John Martinez
 BR-08-LKMX,2014,,Teresa Gonzales
 RS-26-VHDS,2014,,Andrew Reed
-KP-72-IYPD,2014,,Tara Murphy
+KP-72-IYPD,2014,"Runner-Up of Jones, Contreras and Mcdaniel Chess Competition, 2014 | ",Tara Murphy
 BO-28-UZGW,2014,,Felicia Garrett
 SR-81-VWAM,2014,,Cynthia Allen
 MY-38-UQSK,2014,,Ashley Roberts
@@ -8115,7 +8115,7 @@ CO-50-IEWB,2014,,Mario Gentry
 FJ-29-CKSN,2014,,Robert Robinson
 HU-29-AADI,2014,,Alejandra Winters
 TR-57-FTTI,2014,,Jerome Atkinson
-DK-43-OIHE,2014,,Xavier Curtis
+DK-43-OIHE,2014,"Winner of Cook-Henry Chess Trials, 2014 | ",Xavier Curtis
 HU-04-YHYZ,2014,,Timothy Bradshaw
 HU-29-PTVK,2014,,Courtney Green
 KW-63-YBAS,2014,,Mark Jordan
@@ -8262,7 +8262,7 @@ AF-97-VZQG,2014,,Hannah Harrison
 BN-98-OSRX,2014,,Spencer Mcmahon
 GE-19-KBYQ,2014,,Deborah Williams
 DE-77-BMRR,2014,,Dale Grimes
-UZ-77-IBGD,2014,,Keith Taylor
+UZ-77-IBGD,2014,"Runner-Up of Armstrong, Cooper and Owens Chess Tournament, 2014 | ",Keith Taylor
 PA-76-HJXE,2014,,Roger Page
 BA-71-MJCD,2014,,Tammy Sanchez
 TR-75-AZQH,2014,,Mark Newton
@@ -8298,7 +8298,7 @@ VN-41-HNEV,2014,,Jason Mckinney
 KH-06-NXMS,2014,,Katherine Jenkins
 BB-77-IFNE,2014,,Trevor Hill
 PK-23-DZBO,2014,,Wayne Fischer
-DE-93-JWFT,2014,,John Davis
+DE-93-JWFT,2014,"Winner of Hopkins-Atkins Chess Contest, 2014 | ",John Davis
 CO-98-BBWZ,2014,,Daniel Grant
 BA-51-EOIN,2014,,Christopher Lee
 MW-67-GLLF,2014,,Deanna Haley
@@ -8330,7 +8330,7 @@ CR-73-CPVJ,2014,,Andrew Peterson
 TN-75-CJTD,2014,,Jessica Ramirez
 LI-06-QSBU,2014,,Cynthia Miller
 CV-05-CPVI,2014,,Aaron Lee
-PS-94-PROE,2014,,David Murray
+PS-94-PROE,2014,"Runner-Up of Ramos PLC Chess Trials, 2014 | ",David Murray
 IR-10-VKVY,2014,,Juan Coleman
 BE-95-JILO,2014,,Brian Miller
 LK-57-OOGN,2014,,Colin Pennington
@@ -8349,7 +8349,7 @@ AD-31-KBXC,2014,,Gabriel Sanchez
 EG-12-ZRNW,2014,,Kyle Lee
 BW-09-SSIG,2014,,Philip Knight
 BJ-22-XLWE,2014,,Anna Fitzgerald
-LI-51-NUUA,2014,,Philip Black
+LI-51-NUUA,2014,"Runner-Up of Cook-Henry Chess Trials, 2014 | ",Philip Black
 GD-41-FXUY,2014,,Jennifer Miller
 MU-33-POEY,2014,,Dana Jones
 BD-45-CDCM,2014,,Amanda Ruiz
@@ -8495,7 +8495,7 @@ KG-63-NPRU,2015,,Mary Sanford
 NL-80-YBKY,2015,,Jonathan Berg
 RW-56-VHBX,2015,,Gina Campbell
 KW-05-LASK,2015,,Ms. Madison Hutchinson
-IR-30-ZMJJ,2015,,Deanna Davis
+IR-30-ZMJJ,2015,"Runner-Up of Clark-Brock Chess Competition, 2015 | ",Deanna Davis
 MA-16-CPUF,2015,,Christopher Stevens
 NR-86-QALK,2015,,Ryan Leonard
 RU-15-XKLL,2015,,Kelly Ramirez
@@ -8637,7 +8637,7 @@ GD-37-KMHX,2015,,Jennifer Montoya
 TR-10-RNFX,2015,,Gregory Terry
 BF-75-OVIC,2015,,Christina Blake
 BJ-51-CWXK,2015,,Brian Holder
-TG-26-ZEQI,2015,,Susan Nguyen
+TG-26-ZEQI,2015,"Runner-Up of Bauer LLC Chess Meet, 2015 | ",Susan Nguyen
 HU-78-EDQU,2015,,Stephanie Woodward
 SN-44-SBDU,2015,,Katherine Hernandez
 SO-85-EPXR,2015,,Cody Mccormick
@@ -8759,7 +8759,7 @@ FR-24-HPFJ,2015,,Shannon Crosby
 MG-86-HXYY,2015,,Yolanda Rhodes
 KM-75-YHBZ,2015,,Kathryn Stevens
 OM-61-XQYA,2015,,John Kim
-CO-26-CNPJ,2015,,John Avila
+CO-26-CNPJ,2015,"Winner of Griffin LLC Chess Competition, 2015 | ",John Avila
 CI-43-TLHU,2015,,Terri Jacobs
 DE-67-RAPX,2015,,Thomas Wright
 MX-02-AYWA,2015,,Phyllis Watson
@@ -8789,7 +8789,7 @@ AO-36-UXGU,2015,,Jessica Mercado
 AF-25-TBIB,2015,,Robin Lawson
 KM-64-KJOL,2015,,Sarah Henderson
 SV-18-YWJC,2015,,Antonio Brewer
-UZ-76-PUIL,2015,,Christopher Hernandez
+UZ-76-PUIL,2015,"Winner of Johnson, Johnson and Ramsey Chess Trials, 2015 | ",Christopher Hernandez
 MX-98-VVZI,2015,,Clayton Chan
 NO-84-DPEU,2015,,Autumn Williams
 FM-22-VDMW,2015,,Elizabeth Cordova
@@ -8934,7 +8934,7 @@ MW-38-DAHX,2015,,Morgan Waller
 MN-95-OVPM,2015,,Victor Gonzalez
 BA-23-NVEP,2015,,Virginia Arnold
 NG-99-YUCS,2015,,Kristy Cooper
-RO-69-VXQU,2015,,Jennifer Kim
+RO-69-VXQU,2015,"Winner of Bauer LLC Chess Meet, 2015 | ",Jennifer Kim
 AM-68-GWDH,2015,,Lisa Harvey
 IQ-15-TKWO,2015,,Holly Morris
 CA-19-GXID,2015,,James Browning
@@ -8984,7 +8984,7 @@ CR-35-DBMG,2015,,Heather Page
 FI-72-ZJHM,2015,,Crystal Stephens
 CI-75-SNLQ,2015,,Stephen Cruz
 BS-62-DMYZ,2015,,Diane Smith
-CV-16-DHPG,2015,,Jenna Smith
+CV-16-DHPG,2015,"Runner-Up of Scott-Peterson Chess Contest, 2015 | ",Jenna Smith
 AZ-42-WKSH,2015,,Raymond Taylor
 GD-72-NKOP,2015,,Frederick Hill
 IT-86-OEMI,2015,,Carrie Simpson
@@ -9127,7 +9127,7 @@ VU-01-ZBMI,2015,,Courtney Moody
 BO-74-ZQEU,2015,,Margaret Johnson
 GT-22-COXH,2015,,Kimberly Stephenson
 SM-63-DIIA,2015,,Christopher Cooper
-MU-92-VDOA,2015,,Jordan Morales
+MU-92-VDOA,2015,"Runner-Up of Ortega, Christian and Simmons Chess Tournament, 2015 | ",Jordan Morales
 MT-69-ITDO,2015,,Andrea Wheeler
 MV-48-DARW,2015,,Nicole Parker
 CZ-22-CYFD,2015,,Mitchell Blair
@@ -9297,7 +9297,7 @@ SC-75-QSOG,2015,,Gary Wise
 PE-14-WDWO,2015,,Kayla Robbins
 SG-06-SGOR,2015,,Sarah Arnold
 ML-70-JGLT,2015,,Daniel Waters
-SM-34-XUJH,2015,,Gregg Garcia
+SM-34-XUJH,2015,"Winner of Obrien Inc Chess Competition, 2015 | ",Gregg Garcia
 SN-59-ATAV,2015,,Sherry Roy
 BR-83-VHME,2015,,Michael Sweeney
 VN-99-JJHD,2015,,Jennifer Brown
@@ -9346,7 +9346,7 @@ DO-72-FLEK,2015,,Michael Crawford
 KM-89-YXAC,2015,,Casey Conway
 KR-51-CACQ,2015,,Kyle Joyce
 SD-86-YRUA,2015,,Angela Golden
-IE-58-HOPB,2015,,Teresa Smith
+IE-58-HOPB,2015,"Winner of Clark-Brock Chess Competition, 2015 | ",Teresa Smith
 UZ-66-SKMG,2015,,Victor Garcia
 MZ-39-OAFJ,2015,,Dennis Scott
 PS-45-IOXW,2015,,Michelle Moran
@@ -9361,7 +9361,7 @@ MN-13-NZOU,2015,,Jordan Gonzalez
 ET-81-DAXI,2015,,Jonathan Schultz
 AR-69-BRKM,2015,,Lauren Warren
 BR-52-SHSR,2015,,Dan Logan
-NG-11-QBLK,2015,,Joshua Bautista
+NG-11-QBLK,2015,"Winner of Davis Ltd Chess Trials, 2015 | ",Joshua Bautista
 MT-49-BFEH,2015,,Hector Brady
 BH-55-MEHD,2015,,Beth Thompson
 CU-30-WQEY,2015,,Grant Edwards
@@ -9384,7 +9384,7 @@ FI-72-AKRM,2015,,Lisa Moore MD
 MC-66-WXWW,2015,,Angela Foster
 NE-33-NJWK,2015,,Shannon Hill
 MM-91-VQZW,2015,,Anna Simmons
-GB-66-PTAS,2015,,Mr. Michael Johnson
+GB-66-PTAS,2015,"Runner-Up of Griffin LLC Chess Competition, 2015 | ",Mr. Michael Johnson
 TV-44-ECLZ,2015,,Christopher Stevens
 LV-35-BIGE,2015,,Sandra Jackson
 AZ-48-YPXQ,2015,,Matthew James
@@ -9406,7 +9406,7 @@ KR-99-XTAX,2015,,Mr. Kevin West
 FR-98-VYNX,2015,,Mary Morrison
 BO-83-YXOQ,2015,,Gloria Jones
 SV-02-YOYK,2015,,Anthony Martinez
-KP-92-WHHD,2015,,Lauren Jackson
+KP-92-WHHD,2015,"Runner-Up of Jones-Cox Chess Meet, 2015 | ",Lauren Jackson
 UA-56-FYJV,2015,,Angela Bowers
 SK-78-VGQZ,2015,,Sydney Burns
 BO-38-DLRD,2015,,Julie Martin
@@ -9576,7 +9576,7 @@ MC-08-WYZV,2015,,Michael Baldwin
 AM-85-GPCI,2015,,Kara Baker
 ST-12-WBAR,2015,,Robert Gordon
 TT-33-LKOS,2015,,Jennifer Oconnor
-IL-67-VJXO,2015,,Joseph Dennis
+IL-67-VJXO,2015,"Winner of Jones-Cox Chess Meet, 2015 | ",Joseph Dennis
 BJ-03-TSJP,2015,,Kimberly Saunders
 ER-47-BIJO,2015,,Carmen Walters
 MU-96-ZPYS,2015,,Cheryl Thomas
@@ -9786,7 +9786,7 @@ PK-25-GHNN,2015,,Bryce White
 SR-08-NYUX,2015,,Regina Graham
 VU-55-VPGD,2015,,Jamie Collins
 ST-86-QXXU,2015,,Jared Garcia
-MK-26-RPMI,2015,,Kristin Day
+MK-26-RPMI,2015,"Winner of Day, Clark and Turner Chess Trials, 2015 | ",Kristin Day
 LV-27-ZUCY,2015,,Richard Clark
 BE-20-QWTQ,2015,,Christine Garcia
 TR-68-FMOW,2015,,Michael Nelson
@@ -9812,7 +9812,7 @@ KM-93-XBYM,2015,,Cory Rivera
 KN-14-FVCJ,2015,,Brenda Rowe
 IT-22-PEDI,2015,,Valerie Carter
 PE-74-YWMW,2015,,Katherine Johnston
-SV-56-RKSO,2015,,Curtis Castillo
+SV-56-RKSO,2015,"Runner-Up of Obrien Inc Chess Competition, 2015 | ",Curtis Castillo
 PL-02-HSUM,2015,,Dr. Tracy Johnson MD
 IL-21-NXNU,2015,,Robert Holt
 LV-22-KLCK,2015,,Janet Cross
@@ -9866,7 +9866,7 @@ MW-01-ITZV,2015,,Whitney Eaton
 TL-07-MAKC,2015,,Gina Williams
 CM-45-YLHD,2015,,Mr. Shawn Koch
 AO-18-FTBD,2015,,John Blake
-MM-70-AGQY,2015,,Ashley Heath
+MM-70-AGQY,2015,"Runner-Up of Day, Clark and Turner Chess Trials, 2015 | ",Ashley Heath
 TM-20-OTQH,2015,,Amanda Johns
 AU-61-MMXA,2015,,Heather Ochoa
 BF-88-OAVJ,2015,,Sean Moran
@@ -10033,7 +10033,7 @@ KZ-98-HLSN,2015,,Justin Atkinson
 MX-98-ELYY,2015,,Matthew Jordan
 AM-14-OIUO,2015,,John Perry
 SZ-20-GYCG,2015,,Michelle Carrillo
-NI-25-MBLX,2015,,Jeffrey Jackson
+NI-25-MBLX,2015,"Winner of Ortega, Christian and Simmons Chess Tournament, 2015 | ",Jeffrey Jackson
 AD-31-KBXC,2015,,Gabriel Sanchez
 EG-12-ZRNW,2015,,Kyle Lee
 BW-09-SSIG,2015,,Philip Knight
@@ -10050,7 +10050,7 @@ OM-95-FQXL,2015,,Logan Jones
 AT-29-JFKS,2015,,Anthony Jones
 FI-54-YLLI,2015,,Erica Ortega
 FR-92-EJDA,2015,,Krista Ali
-ME-33-OQHF,2015,,John Moore
+ME-33-OQHF,2015,"Winner of Scott-Peterson Chess Contest, 2015 | ",John Moore
 TJ-38-HARG,2015,,Robert Rodriguez
 AD-92-DXBL,2015,,David Stevenson
 AO-42-JGCM,2015,,Amy Deleon
@@ -10098,7 +10098,7 @@ BF-88-UXJH,2015,,David Rojas
 KZ-67-TLUH,2015,,William Jordan
 KW-24-EJNZ,2015,,Mario Mccullough
 GD-84-DXPX,2015,,Marcus Collins
-IL-63-CSEV,2015,,Jared Banks
+IL-63-CSEV,2015,"Runner-Up of Davis Ltd Chess Trials, 2015 | ",Jared Banks
 KG-17-KIKY,2015,,Rebecca Cunningham
 GT-63-TGHU,2015,,Lisa Johnson
 ME-61-ZIHS,2015,,Robyn Taylor
@@ -10107,7 +10107,7 @@ CF-59-KOJQ,2015,,Justin Gray
 IE-73-TSRQ,2015,,Samantha King
 PE-39-JOEE,2015,,Stephanie Williams
 HN-76-MTFC,2015,,Crystal Brown
-PW-01-HUVQ,2015,,Cathy Garcia
+PW-01-HUVQ,2015,"Runner-Up of Johnson, Johnson and Ramsey Chess Trials, 2015 | ",Cathy Garcia
 PG-76-XUTQ,2015,,Brandy Cobb
 US-37-IGZM,2015,,Denise Li
 CR-83-OMOQ,2015,,Audrey Schmidt
@@ -10239,7 +10239,7 @@ MT-47-DKON,2016,,Catherine Jones
 LA-10-QYGC,2016,,Cindy Smith
 VC-16-BWYN,2016,,Eric Atkinson
 NA-82-ANYB,2016,,Rachel Fox
-AR-98-XSUS,2016,,Claudia Mccarty
+AR-98-XSUS,2016,"Winner of Parker-Benson Chess Competition, 2016 | ",Claudia Mccarty
 CG-46-YOJL,2016,,Emily Stewart
 MX-47-GIVV,2016,,Paul Burnett
 LS-01-AVPU,2016,,Angela Evans
@@ -10312,7 +10312,7 @@ JM-55-CBGS,2016,,Brandy Nelson
 MA-82-FWUA,2016,,Curtis Jackson
 SR-00-WRRM,2016,,Sarah Moore
 MK-07-LPEW,2016,,Casey Garcia
-FI-01-HKOI,2016,,Suzanne Scott
+FI-01-HKOI,2016,"Winner of Floyd LLC Chess Meet, 2016 | ",Suzanne Scott
 DM-15-DWFC,2016,,Daniel Moody
 CG-57-KABD,2016,,Crystal Carson
 TO-65-KRES,2016,,Sarah Hawkins
@@ -10432,7 +10432,7 @@ PW-94-JYTG,2016,,Stephen Edwards
 CV-71-GBTB,2016,,Joseph Byrd
 TJ-09-NGZJ,2016,,Kristi Clay
 GR-21-PAOS,2016,,Billy Thompson
-TH-53-BZPN,2016,,Sarah Garcia
+TH-53-BZPN,2016,"Winner of Dillon, Wells and Hunt Chess Meet, 2016 | ",Sarah Garcia
 ML-47-ERUL,2016,,Sean Gonzalez
 KH-54-UEWK,2016,,Kenneth Levine
 AF-29-CSEK,2016,,Alison Lester
@@ -10444,7 +10444,7 @@ GE-70-ZYKN,2016,,Katherine Baldwin
 LA-50-TTOE,2016,,Elizabeth Johnson
 RO-57-CCVB,2016,,James Lowe
 VC-01-OLHQ,2016,,Miranda Page
-FR-24-HPFJ,2016,,Shannon Crosby
+FR-24-HPFJ,2016,"Runner-Up of Hernandez Ltd Chess Trials, 2016 | ",Shannon Crosby
 MG-86-HXYY,2016,,Yolanda Rhodes
 KM-75-YHBZ,2016,,Kathryn Stevens
 OM-61-XQYA,2016,,John Kim
@@ -10552,7 +10552,7 @@ ES-87-SYQF,2016,,Madison Juarez
 BB-49-PWRQ,2016,,Matthew Burke
 TV-04-AZQC,2016,,Robert Jones
 OM-19-HEXA,2016,,David Weaver
-MY-67-YTSZ,2016,,Jennifer Willis
+MY-67-YTSZ,2016,"Winner of Hernandez Ltd Chess Trials, 2016 | ",Jennifer Willis
 AR-33-UZID,2016,,Jennifer Nelson
 SZ-49-HJCV,2016,,Jodi Cline DVM
 TL-26-DSPQ,2016,,Stacey Rodriguez
@@ -10707,7 +10707,7 @@ TM-35-RHEF,2016,,Tammy Wood
 BD-79-ITPY,2016,,Carrie Campbell
 KZ-12-EIPM,2016,,Amanda Mathis
 GB-74-QJVQ,2016,,Michael Valentine
-IE-96-YUVV,2016,,Lisa Mcdowell
+IE-96-YUVV,2016,"Runner-Up of Nguyen, Turner and Garrett Chess Tournament, 2016 | ",Lisa Mcdowell
 TW-96-IQTA,2016,,Hannah Stein
 KR-90-ZBZX,2016,,Chad Jones
 SO-80-SAGZ,2016,,Veronica Smith
@@ -10878,7 +10878,7 @@ ME-70-QPMD,2016,,Rick Bailey
 QA-33-TJUH,2016,,Alan Russell
 KW-55-HOOC,2016,,Dr. Jennifer Schaefer DDS
 MW-11-QPBC,2016,,Tamara Fitzpatrick
-PS-29-LGSG,2016,,Brent Lin
+PS-29-LGSG,2016,"Winner of Bolton, Ward and Santiago Chess Meet, 2016 | ",Brent Lin
 JO-52-AAQT,2016,,Amy Anderson
 CG-66-NXHY,2016,,Terry Duffy
 JM-72-PNWM,2016,,Richard Bowman
@@ -10952,7 +10952,7 @@ DE-68-IWNT,2016,,Samantha Chapman
 SY-14-WSGM,2016,,Matthew Pruitt
 BH-88-JGCE,2016,,Sarah Lawson
 SD-93-SQIE,2016,,Janet Williams
-BJ-06-ORJP,2016,,Donald Flores
+BJ-06-ORJP,2016,"Winner of Nguyen, Turner and Garrett Chess Tournament, 2016 | ",Donald Flores
 EC-34-CGCO,2016,,Ms. Brandi Gonzalez
 FJ-82-QNSB,2016,,Michael Hernandez
 VN-11-RXWA,2016,,Ashley Bradford
@@ -10975,7 +10975,7 @@ SR-04-QLLU,2016,,Jessica Martinez
 CD-03-YENA,2016,,Heather Costa
 TW-79-IOAV,2016,,Amy Richards
 CZ-55-BQPG,2016,,Amanda Wright
-GH-71-FUYH,2016,,Brandon Bailey
+GH-71-FUYH,2016,"Runner-Up of Parker-Benson Chess Competition, 2016 | ",Brandon Bailey
 TD-37-GMJE,2016,,Courtney Butler
 GY-73-FAHZ,2016,,Julie Evans
 IQ-86-UKJL,2016,,Shannon Galvan
@@ -10995,7 +10995,7 @@ SD-77-LALV,2016,,Gina Wade
 ZA-32-GURW,2016,,Abigail Rivera
 NR-49-VHKA,2016,,Lisa Jackson
 IL-81-DHOY,2016,,Jennifer Welch
-CA-14-WUMB,2016,,Terrance Holden
+CA-14-WUMB,2016,"Winner of Howard, Martin and Yang Chess Contest, 2016 | ",Terrance Holden
 PW-76-XNVX,2016,,Jody Thompson
 DM-18-FUBG,2016,,Dr. Jeremy Roberts
 KH-20-ZDVW,2016,,Dr. Monica Chang
@@ -11025,7 +11025,7 @@ SK-03-YMIH,2016,,Paula Castillo
 LA-79-IHNY,2016,,Robert Campbell
 TM-05-JFQB,2016,,Patricia Robinson
 KG-44-BLBM,2016,,William Briggs
-LK-58-UJDD,2016,,Benjamin Sloan
+LK-58-UJDD,2016,"Runner-Up of Houston-Yates Chess Contest, 2016 | ",Benjamin Sloan
 NE-27-TBKP,2016,,Anne Walker
 LS-89-DUUL,2016,,Clayton Park
 LY-23-EHOO,2016,,Zachary Tate
@@ -11040,7 +11040,7 @@ UZ-66-SKMG,2016,,Victor Garcia
 MZ-39-OAFJ,2016,,Dennis Scott
 PS-45-IOXW,2016,,Michelle Moran
 BD-82-HULJ,2016,,Rebecca Garcia
-UG-35-LJYE,2016,,Angela Herrera
+UG-35-LJYE,2016,"Runner-Up of Owens LLC Chess Tournament, 2016 | ",Angela Herrera
 EC-11-PQJJ,2016,,Matthew Nelson
 ET-82-RYEI,2016,,Penny Glass
 HT-58-MYDR,2016,,Benjamin Thompson
@@ -11103,7 +11103,7 @@ AF-44-KUNV,2016,,Ruben Bradley
 VC-66-ZKRK,2016,,David Hall
 CV-80-HYUU,2016,,Regina Webb
 HR-05-OQZT,2016,,Lisa Hester
-NO-65-LJMU,2016,,Joseph Martin
+NO-65-LJMU,2016,"Runner-Up of Brown-Martin Chess Tournament, 2016 | ",Joseph Martin
 SD-28-QOIB,2016,,Natalie Gonzalez
 MA-93-JTIO,2016,,Tonya Bell
 NR-83-KYNS,2016,,Stephanie Peters
@@ -11130,7 +11130,7 @@ KN-14-NJRD,2016,,Peter Anderson
 MN-71-ZIHI,2016,,Mariah Roberts
 LC-92-ILTW,2016,,Rebecca Moyer
 TR-93-PYMU,2016,,Christopher Patel
-RO-90-SLPJ,2016,,Samuel Patterson
+RO-90-SLPJ,2016,"Runner-Up of Dillon, Wells and Hunt Chess Meet, 2016 | ",Samuel Patterson
 SR-04-SDLE,2016,,Barbara Cowan
 KH-93-CGIX,2016,,Jacqueline Porter
 WS-66-LTGD,2016,,Alyssa Moore
@@ -11171,7 +11171,7 @@ JM-41-IZPA,2016,,Toni Manning
 DO-25-CKLW,2016,,Brenda Logan
 AU-49-FNHE,2016,,Gregory Morgan
 BN-95-HUZI,2016,,Jennifer Hall
-WS-69-YHCX,2016,,Aaron Adams
+WS-69-YHCX,2016,"Runner-Up of Adams and Sons Chess Tournament, 2016 | ",Aaron Adams
 BG-14-XMWQ,2016,,Jill Rhodes
 TH-81-FDXQ,2016,,Teresa Taylor
 MD-22-IONH,2016,,Michele Martin
@@ -11249,7 +11249,7 @@ VE-41-UZNF,2016,,Amy Martinez
 SL-29-QYXZ,2016,,Angela Wells
 RO-02-KNLL,2016,,Timothy Farrell
 UA-14-LFSU,2016,,Sarah Mendez
-MH-61-QXMW,2016,,Michael Anderson
+MH-61-QXMW,2016,"Winner of Owens LLC Chess Tournament, 2016 | ",Michael Anderson
 TM-36-BYBD,2016,,Dr. Kevin Hernandez
 TH-52-MIRM,2016,,Jacob Ray
 PG-69-JLTR,2016,,Robyn Hernandez
@@ -11363,7 +11363,7 @@ HU-81-MOLT,2016,,William Martinez
 ES-70-NBZP,2016,,Emily Cox
 FM-53-RUUH,2016,,Jake Thompson
 SZ-14-WINI,2016,,Christina Harris
-AO-61-YBRQ,2016,,Stephen Robertson
+AO-61-YBRQ,2016,"Runner-Up of Walker LLC Chess Trials, 2016 | ",Stephen Robertson
 ZW-12-RGUU,2016,,Renee Wright
 BZ-05-NMJK,2016,,Amanda Jones
 CO-04-ABZT,2016,,Julia Lewis
@@ -11405,10 +11405,10 @@ BS-71-XKLW,2016,,Amanda Hutchinson
 GN-00-DRHM,2016,,Christopher Stevens
 KG-78-HQNB,2016,,Robert Avila PhD
 CA-14-JCRH,2016,,Jessica Hoffman
-AT-23-VEIS,2016,,Sharon Stevens
+AT-23-VEIS,2016,"Winner of Brown-Martin Chess Tournament, 2016 | ",Sharon Stevens
 NL-57-QGHK,2016,,Miss Jessica Robinson
 HN-85-KWJR,2016,,Crystal Meadows
-TG-24-SGBD,2016,,Frank King
+TG-24-SGBD,2016,"Runner-Up of Floyd LLC Chess Meet, 2016 | ",Frank King
 BW-50-EZCB,2016,,Lisa Foster
 PE-51-GZQZ,2016,,Thomas Smith
 ZA-19-TXXE,2016,,Mark Lewis
@@ -11424,7 +11424,7 @@ BA-96-BTKS,2016,,Scott Yates
 EE-92-QZDK,2016,,John Nguyen
 GH-74-GOJT,2016,,Melissa Brown
 TD-90-OCEU,2016,,Jason Reid
-MG-97-KWIZ,2016,,Timothy Wade
+MG-97-KWIZ,2016,"Winner of Houston-Yates Chess Contest, 2016 | ",Timothy Wade
 KH-03-KSMG,2016,,Elizabeth Buck
 ES-54-OFXP,2016,,Elizabeth Simon
 VC-57-BONQ,2016,,Cindy Gray
@@ -11452,14 +11452,14 @@ SC-09-NTCG,2016,,Kimberly Jackson
 ZM-19-GPIL,2016,,David Roman
 CA-68-CSIV,2016,,Michelle Hernandez
 ME-75-CXAJ,2016,,Brandon Nguyen
-CV-22-ZKOU,2016,,Ryan Holder
+CV-22-ZKOU,2016,"Winner of Walker LLC Chess Trials, 2016 | ",Ryan Holder
 PY-39-NFJB,2016,,Deborah Berger
 TT-08-XWTU,2016,,Jeffery Anderson
 TM-31-VRUB,2016,,Brian Gonzalez
 LI-97-QBWJ,2016,,Michelle Clay
 CA-11-ADLM,2016,,Laura Cooper
 ZA-33-ZGPL,2016,,Kimberly Anderson
-QA-29-EMVO,2016,,Miguel Vasquez
+QA-29-EMVO,2016,"Winner of Adams and Sons Chess Tournament, 2016 | ",Miguel Vasquez
 SV-50-XQRG,2016,,Steven Howell
 GY-71-QJQX,2016,,Laura Spencer
 BZ-96-TCGF,2016,,Kenneth Reyes
@@ -11561,7 +11561,7 @@ AU-61-MMXA,2016,,Heather Ochoa
 BF-88-OAVJ,2016,,Sean Moran
 DK-82-WVZZ,2016,,Anthony Johnson
 SL-59-FQXF,2016,,Peter Daugherty
-PK-99-OPMV,2016,,Rebecca Moore
+PK-99-OPMV,2016,"Runner-Up of Howard, Martin and Yang Chess Contest, 2016 | ",Rebecca Moore
 CD-02-ODUL,2016,,John Henry
 MR-53-KAJP,2016,,Kyle Marshall
 LI-08-UUZW,2016,,Mr. Robert Barton
@@ -11643,7 +11643,7 @@ DE-77-BMRR,2016,,Dale Grimes
 UZ-77-IBGD,2016,,Keith Taylor
 PA-76-HJXE,2016,,Roger Page
 BA-71-MJCD,2016,,Tammy Sanchez
-TR-75-AZQH,2016,,Mark Newton
+TR-75-AZQH,2016,"Runner-Up of Bolton, Ward and Santiago Chess Meet, 2016 | ",Mark Newton
 KP-41-IPDM,2016,,Richard Weiss
 SK-71-SAEO,2016,,Brian Tran
 TW-18-ZGXM,2016,,Katelyn Anderson
@@ -12027,7 +12027,7 @@ TT-84-DENI,2017,,Christina Barron
 MD-23-KWDJ,2017,,Amanda White
 SK-75-ZOKT,2017,,David Durham
 FR-66-WPMW,2017,,Peter Young
-GY-57-AKOL,2017,,Nicole Jones
+GY-57-AKOL,2017,"Winner of Allen, Duarte and Mcgee Chess Competition, 2017 | ",Nicole Jones
 AR-57-OAPJ,2017,,Rebecca Todd
 OM-20-CTOR,2017,,Deanna Donovan
 IS-66-YMKZ,2017,,Michael Jones
@@ -12113,7 +12113,7 @@ KG-42-RXJI,2017,,Zachary Moore
 AU-62-TAQS,2017,,Aaron Peck
 PL-55-CWTQ,2017,,Kelly Harmon
 TR-47-CXDW,2017,,Diane Nelson
-BN-84-ZJBF,2017,,Autumn Smith
+BN-84-ZJBF,2017,"Winner of Roberson LLC Chess Meet, 2017 | ",Autumn Smith
 ML-10-KLNI,2017,,Danielle Leblanc
 PW-13-HUBS,2017,,Lauren Cook
 NE-84-FQHN,2017,,Chloe Crawford
@@ -12441,7 +12441,7 @@ TT-59-QZKV,2017,,Charles Santos
 CM-76-KPPK,2017,,Lori Keller
 SN-95-RKWP,2017,,Patricia Kaiser
 VU-94-ZNFC,2017,,Vanessa Mullins
-BS-87-BDRY,2017,,Shannon Humphrey
+BS-87-BDRY,2017,"Winner of Kelly-Mcguire Chess Tournament, 2017 | ",Shannon Humphrey
 KE-19-WQTX,2017,,Erin Dominguez
 LI-67-LFVC,2017,,Marissa Taylor
 TM-99-SUSE,2017,,Desiree Harrell
@@ -12619,7 +12619,7 @@ MD-75-GYZN,2017,,Crystal Hunt
 WS-18-TCPD,2017,,Theresa Yang
 UY-75-JLZA,2017,,Andrew Robinson
 ET-84-BXQR,2017,,Sarah Brown
-KP-68-WQHB,2017,,Jennifer Chavez
+KP-68-WQHB,2017,"Runner-Up of Chung-White Chess Contest, 2017 | ",Jennifer Chavez
 PS-41-MURZ,2017,,Lisa Fuentes
 TO-61-JQTL,2017,,Tina Davies
 HT-57-YPXX,2017,,Sarah Klein
@@ -12629,7 +12629,7 @@ KZ-50-JGWX,2017,,Michele Thompson
 LA-08-JWYK,2017,,Jonathan Turner
 ES-88-DYQL,2017,,Marie Klein
 ER-64-OPPS,2017,,Kristi Atkins
-IQ-67-LEQI,2017,,Victoria Johnson
+IQ-67-LEQI,2017,"Winner of Graham, Charles and Rocha Chess Competition, 2017 | ",Victoria Johnson
 RW-33-ZEWC,2017,,Darlene Case
 SD-53-LMHE,2017,,Cameron Hernandez
 KN-47-DJYB,2017,,Dr. Maria Hayes DVM
@@ -12651,7 +12651,7 @@ TW-93-KGWX,2017,,Jacob Gonzalez
 QA-66-BHRX,2017,,Dustin Thompson
 TM-03-EJBB,2017,,Kevin Campbell
 CG-35-HBHB,2017,,Andrew Perez
-CG-42-CXUK,2017,,Mr. Vincent Kelly MD
+CG-42-CXUK,2017,"Runner-Up of Moore-Carlson Chess Contest, 2017 | ",Mr. Vincent Kelly MD
 WS-82-JPSO,2017,,Jessica Williams
 FI-52-VBJZ,2017,,Jessica Butler
 MM-76-WSMR,2017,,Richard Russell
@@ -12683,7 +12683,7 @@ EC-78-ASHQ,2017,,Tonya Brown
 SD-77-LALV,2017,,Gina Wade
 ZA-32-GURW,2017,,Abigail Rivera
 NR-49-VHKA,2017,,Lisa Jackson
-IL-81-DHOY,2017,,Jennifer Welch
+IL-81-DHOY,2017,"Winner of Chung-White Chess Contest, 2017 | ",Jennifer Welch
 CA-14-WUMB,2017,,Terrance Holden
 PW-76-XNVX,2017,,Jody Thompson
 DM-18-FUBG,2017,,Dr. Jeremy Roberts
@@ -12741,7 +12741,7 @@ AR-69-BRKM,2017,,Lauren Warren
 BR-52-SHSR,2017,,Dan Logan
 NG-11-QBLK,2017,,Joshua Bautista
 MT-49-BFEH,2017,,Hector Brady
-BH-55-MEHD,2017,,Beth Thompson
+BH-55-MEHD,2017,"Runner-Up of Allen, Duarte and Mcgee Chess Competition, 2017 | ",Beth Thompson
 CU-30-WQEY,2017,,Grant Edwards
 KZ-48-DKIA,2017,,Harry Moore II
 PK-60-FVUL,2017,,Amber King
@@ -12863,7 +12863,7 @@ BN-95-HUZI,2017,,Jennifer Hall
 WS-69-YHCX,2017,,Aaron Adams
 BG-14-XMWQ,2017,,Jill Rhodes
 TH-81-FDXQ,2017,,Teresa Taylor
-MD-22-IONH,2017,,Michele Martin
+MD-22-IONH,2017,"Runner-Up of Kelly-Mcguire Chess Tournament, 2017 | ",Michele Martin
 US-69-WKPI,2017,,David Ward
 HT-39-OQCT,2017,,Keith Woods
 GE-02-VTIK,2017,,Rodney Mcdowell DDS
@@ -13346,7 +13346,7 @@ NL-70-XUGG,2017,,Stacey Miller
 ST-44-PBJA,2017,,Kimberly Lewis
 KG-17-STQW,2017,,Timothy Flores
 ET-80-OLAF,2017,,Felicia Kennedy
-GY-62-VNAL,2017,,Matthew Lucas
+GY-62-VNAL,2017,"Runner-Up of Graham, Charles and Rocha Chess Competition, 2017 | ",Matthew Lucas
 MT-22-TMVD,2017,,Amanda Love
 IQ-44-DSTM,2017,,Justin Casey
 DO-68-VNGZ,2017,,Trevor Gonzalez
@@ -13432,7 +13432,7 @@ ME-33-OQHF,2017,,John Moore
 TJ-38-HARG,2017,,Robert Rodriguez
 AD-92-DXBL,2017,,David Stevenson
 AO-42-JGCM,2017,,Amy Deleon
-CU-92-DUYS,2017,,Adam Wood
+CU-92-DUYS,2017,"Runner-Up of Roberson LLC Chess Meet, 2017 | ",Adam Wood
 PY-87-BRFV,2017,,Tina Hunt
 TM-90-JVRL,2017,,Peter Reid
 KE-78-CLHP,2017,,Derek Garcia
@@ -13479,7 +13479,7 @@ GD-84-DXPX,2017,,Marcus Collins
 IL-63-CSEV,2017,,Jared Banks
 KG-17-KIKY,2017,,Rebecca Cunningham
 GT-63-TGHU,2017,,Lisa Johnson
-ME-61-ZIHS,2017,,Robyn Taylor
+ME-61-ZIHS,2017,"Winner of Moore-Carlson Chess Contest, 2017 | ",Robyn Taylor
 NZ-26-JAYO,2017,,Dr. Tara Sellers
 CF-59-KOJQ,2017,,Justin Gray
 IE-73-TSRQ,2017,,Samantha King
@@ -13613,7 +13613,7 @@ FI-18-FWJQ,2018,,Tammy Davis
 MU-19-DRUS,2018,,Walter Spencer
 SZ-36-IVIJ,2018,,Erin Robinson
 TJ-36-OYEE,2018,,Douglas Miller
-MT-47-DKON,2018,,Catherine Jones
+MT-47-DKON,2018,"Runner-Up of Marks, Tucker and Black Chess Trials, 2018 | ",Catherine Jones
 LA-10-QYGC,2018,,Cindy Smith
 VC-16-BWYN,2018,,Eric Atkinson
 NA-82-ANYB,2018,,Rachel Fox
@@ -13813,7 +13813,7 @@ GR-21-PAOS,2018,,Billy Thompson
 TH-53-BZPN,2018,,Sarah Garcia
 ML-47-ERUL,2018,,Sean Gonzalez
 KH-54-UEWK,2018,,Kenneth Levine
-AF-29-CSEK,2018,,Alison Lester
+AF-29-CSEK,2018,"Winner of Marks, Tucker and Black Chess Trials, 2018 | ",Alison Lester
 MD-57-EOHV,2018,,Beth Cantu
 GR-44-XPRK,2018,,Dawn Henderson
 RO-83-GWJQ,2018,,Cory Henson
@@ -13936,7 +13936,7 @@ SZ-49-HJCV,2018,,Jodi Cline DVM
 TL-26-DSPQ,2018,,Stacey Rodriguez
 JP-67-GWEN,2018,,Patrick Gordon
 LC-27-YQQR,2018,,Cheryl Hamilton
-KM-89-OFFN,2018,,William Hernandez
+KM-89-OFFN,2018,"Winner of Ayers and Sons Chess Competition, 2018 | ",William Hernandez
 TH-12-VIPL,2018,,Christopher Mcintosh
 GE-85-RBIX,2018,,Taylor Mayer
 TL-26-UMMW,2018,,John Shannon
@@ -13986,7 +13986,7 @@ BN-49-RDKL,2018,,Joseph Newton
 MD-20-JEJE,2018,,William Anderson
 BG-71-DKAT,2018,,Rita Clark
 MU-89-ZINM,2018,,Karen Michael
-MK-58-WMDM,2018,,David Maxwell
+MK-58-WMDM,2018,"Runner-Up of Hernandez Group Chess Meet, 2018 | ",David Maxwell
 ES-29-WXXH,2018,,Timothy Kim Jr.
 RU-42-UQJD,2018,,Heather Martinez
 MN-47-JXQO,2018,,Shawn Flowers
@@ -14001,7 +14001,7 @@ MW-38-DAHX,2018,,Morgan Waller
 MN-95-OVPM,2018,,Victor Gonzalez
 BA-23-NVEP,2018,,Virginia Arnold
 NG-99-YUCS,2018,,Kristy Cooper
-RO-69-VXQU,2018,,Jennifer Kim
+RO-69-VXQU,2018,"Runner-Up of Ayers and Sons Chess Competition, 2018 | ",Jennifer Kim
 AM-68-GWDH,2018,,Lisa Harvey
 IQ-15-TKWO,2018,,Holly Morris
 CA-19-GXID,2018,,James Browning
@@ -14044,7 +14044,7 @@ CO-59-NGZJ,2018,,Gloria Reeves
 IQ-96-VYHN,2018,,Robert Aguirre
 CN-43-SMWC,2018,,Sharon Holmes
 AE-56-FABV,2018,,Matthew Floyd
-JO-06-BCRQ,2018,,Dennis Payne
+JO-06-BCRQ,2018,"Winner of Taylor, Brown and Jones Chess Competition, 2018 | ",Dennis Payne
 BJ-85-YNJC,2018,,Sarah Ramirez
 KR-79-YHPP,2018,,Claudia Harrington
 CR-35-DBMG,2018,,Heather Page
@@ -14186,7 +14186,7 @@ LS-76-CIXD,2018,,Steven Barnes
 NR-84-BXAU,2018,,Christina Valencia
 JM-26-YNFJ,2018,,James Garcia
 NE-18-MEEZ,2018,,Christina Alvarez
-TJ-01-OYTT,2018,,Jamie Pittman
+TJ-01-OYTT,2018,"Winner of Johnson and Sons Chess Contest, 2018 | ",Jamie Pittman
 NL-92-KOVO,2018,,Mr. Aaron Mckinney MD
 MZ-02-YOLS,2018,,Jason Arnold
 NR-28-IVGG,2018,,Rebecca Zamora
@@ -14566,7 +14566,7 @@ MA-95-TASQ,2018,,Leah Arnold
 GW-76-QGYB,2018,,Mr. Steven Lee
 ZA-79-CPEN,2018,,Donald Gray
 RU-12-TBEX,2018,,Nicole Barnes DVM
-ZA-63-AFKE,2018,,Emily Green
+ZA-63-AFKE,2018,"Winner of Hernandez Group Chess Meet, 2018 | ",Emily Green
 MT-09-HWUI,2018,,Michael Ramos
 HN-28-BCEI,2018,,Michael Hale
 MC-15-FKYK,2018,,Michael Koch
@@ -14856,9 +14856,9 @@ ST-86-QXXU,2018,,Jared Garcia
 MK-26-RPMI,2018,,Kristin Day
 LV-27-ZUCY,2018,,Richard Clark
 BE-20-QWTQ,2018,,Christine Garcia
-TR-68-FMOW,2018,,Michael Nelson
+TR-68-FMOW,2018,"Runner-Up of Taylor, Brown and Jones Chess Competition, 2018 | ",Michael Nelson
 TG-02-IGPD,2018,,Kelly Johnson
-AD-42-MNDL,2018,,Melissa Green
+AD-42-MNDL,2018,"Runner-Up of Johnson and Sons Chess Contest, 2018 | ",Melissa Green
 BZ-68-YHUE,2018,,James Hill
 NI-02-EOKQ,2018,,Lindsey Jones
 GQ-31-QASD,2018,,Tina Montgomery
@@ -15306,7 +15306,7 @@ MT-47-DKON,2019,,Catherine Jones
 LA-10-QYGC,2019,,Cindy Smith
 VC-16-BWYN,2019,,Eric Atkinson
 NA-82-ANYB,2019,,Rachel Fox
-AR-98-XSUS,2019,,Claudia Mccarty
+AR-98-XSUS,2019,"Runner-Up of Vang-Campos Chess Trials, 2019 | ",Claudia Mccarty
 CG-46-YOJL,2019,,Emily Stewart
 MX-47-GIVV,2019,,Paul Burnett
 LS-01-AVPU,2019,,Angela Evans
@@ -15405,7 +15405,7 @@ TT-84-DENI,2019,,Christina Barron
 MD-23-KWDJ,2019,,Amanda White
 SK-75-ZOKT,2019,,David Durham
 FR-66-WPMW,2019,,Peter Young
-GY-57-AKOL,2019,,Nicole Jones
+GY-57-AKOL,2019,"Runner-Up of Hart-Bailey Chess Trials, 2019 | Runner-Up of Saunders, Collins and Vazquez Chess Trials, 2019 | Runner-Up of Williams-Rios Chess Competition, 2019 | ",Nicole Jones
 AR-57-OAPJ,2019,,Rebecca Todd
 OM-20-CTOR,2019,,Deanna Donovan
 IS-66-YMKZ,2019,,Michael Jones
@@ -15443,7 +15443,7 @@ FJ-98-HMMP,2019,,Lauren Fox MD
 PS-67-BXWM,2019,,Manuel Berry
 BZ-30-QZBJ,2019,,Morgan Velez
 SI-60-XODV,2019,,Natalie Willis
-VN-20-GDLO,2019,,Kevin Watson
+VN-20-GDLO,2019,"Runner-Up of Bailey, Snyder and Smith Chess Tournament, 2019 | ",Kevin Watson
 JO-59-CKZE,2019,,Angela Russell
 AT-46-RXHL,2019,,Michael Wright
 ZW-58-VEWS,2019,,Robert Thomas
@@ -15457,7 +15457,7 @@ JM-01-RXGM,2019,,Alexis Sims
 NE-92-XYME,2019,,Audrey Lucas
 BT-93-WUJN,2019,,Adrienne Russell
 NG-21-ZCPD,2019,,Brittany Lloyd
-NI-37-XQHU,2019,,Shawn Brown
+NI-37-XQHU,2019,"Winner of Simmons and Sons Chess Contest, 2019 | ",Shawn Brown
 MH-64-SWUB,2019,,Brian Curry
 BW-19-XADQ,2019,,Teresa Burke
 SD-28-AOMS,2019,,James Sawyer
@@ -15538,7 +15538,7 @@ KN-16-ZMKP,2019,,Mary Diaz
 PA-13-UXJO,2019,,Timothy Jenkins
 CD-85-DVEZ,2019,,Darren Preston
 SV-79-QVJS,2019,,Johnathan Holland
-DZ-55-IKXR,2019,,Tonya Gordon
+DZ-55-IKXR,2019,"Runner-Up of Phillips-Smith Chess Contest, 2019 | ",Tonya Gordon
 NO-59-GRSA,2019,,Rodney Mitchell
 ST-00-NIBX,2019,,Nathaniel Davis
 AO-36-UXGU,2019,,Jessica Mercado
@@ -15638,7 +15638,7 @@ VN-59-TFYM,2019,,Fred Flores
 US-48-PSLX,2019,,Julia Salazar
 DO-58-BGZT,2019,,Jordan Russell
 SV-30-OVWO,2019,,Nathan Hill
-TH-40-FHOZ,2019,,Charles Simmons
+TH-40-FHOZ,2019,"Runner-Up of Lozano-Mcgee Chess Trials, 2019 | ",Charles Simmons
 VN-79-EHNJ,2019,,Monica Roy
 GN-23-ZLIU,2019,,Stephanie Matthews
 UG-87-CGQU,2019,,Benjamin Gregory
@@ -15733,7 +15733,7 @@ CO-59-NGZJ,2019,,Gloria Reeves
 IQ-96-VYHN,2019,,Robert Aguirre
 CN-43-SMWC,2019,,Sharon Holmes
 AE-56-FABV,2019,,Matthew Floyd
-JO-06-BCRQ,2019,,Dennis Payne
+JO-06-BCRQ,2019,"Runner-Up of Simmons and Sons Chess Contest, 2019 | ",Dennis Payne
 BJ-85-YNJC,2019,,Sarah Ramirez
 KR-79-YHPP,2019,,Claudia Harrington
 CR-35-DBMG,2019,,Heather Page
@@ -15751,7 +15751,7 @@ NR-61-TDOI,2019,,Elaine Hughes
 CM-61-CDYH,2019,,Colin Wilson
 IT-66-NPSB,2019,,Joseph Welch
 TD-12-JQIJ,2019,,Jeffery Williams
-NG-73-HKXR,2019,,Jared Rodriguez
+NG-73-HKXR,2019,"Winner of Phillips-Smith Chess Contest, 2019 | ",Jared Rodriguez
 AD-26-IQZB,2019,,Rebecca Matthews
 TJ-26-CIEI,2019,,Jason Thomas
 NG-13-XLFF,2019,,Kathy Phillips
@@ -15815,7 +15815,7 @@ MA-32-TZIY,2019,,Mariah Johnson
 CU-05-FNZZ,2019,,Randy Jensen
 HU-29-LUVY,2019,,John Jenkins
 LS-11-LMRN,2019,,Robert Rose
-TT-59-QZKV,2019,,Charles Santos
+TT-59-QZKV,2019,"Runner-Up of Bartlett-Perez Chess Competition, 2019 | ",Charles Santos
 CM-76-KPPK,2019,,Lori Keller
 SN-95-RKWP,2019,,Patricia Kaiser
 VU-94-ZNFC,2019,,Vanessa Mullins
@@ -15874,7 +15874,7 @@ HR-41-FLFC,2019,,Brian Lambert
 LS-76-CIXD,2019,,Steven Barnes
 NR-84-BXAU,2019,,Christina Valencia
 JM-26-YNFJ,2019,,James Garcia
-NE-18-MEEZ,2019,,Christina Alvarez
+NE-18-MEEZ,2019,"Winner of Johnson, Torres and Montes Chess Contest, 2019 | ",Christina Alvarez
 TJ-01-OYTT,2019,,Jamie Pittman
 NL-92-KOVO,2019,,Mr. Aaron Mckinney MD
 MZ-02-YOLS,2019,,Jason Arnold
@@ -15977,7 +15977,7 @@ MC-82-JFCT,2019,,Kent Arroyo Jr.
 CI-56-XHOS,2019,,Melissa Sosa
 LA-70-MDTX,2019,,Jose Gill
 NE-73-RRXM,2019,,Megan Hanson
-MU-70-KHZU,2019,,Jessica Bowman
+MU-70-KHZU,2019,"Winner of Miller PLC Chess Tournament, 2019 | ",Jessica Bowman
 NG-36-DHRA,2019,,Joshua Rivera
 MZ-79-MBBF,2019,,Jessica Barber
 ZW-93-VSVB,2019,,Darrell Allen
@@ -15990,7 +15990,7 @@ TJ-54-FTSW,2019,,Kathleen Anderson
 JM-42-KLDF,2019,,Leah Burke
 SR-67-VHCH,2019,,Rebecca Peterson
 AG-97-NEMJ,2019,,Gabrielle Becker
-RS-55-KLLS,2019,,Nicholas Garza
+RS-55-KLLS,2019,"Winner of Hart-Bailey Chess Trials, 2019 | ",Nicholas Garza
 AL-93-DZAC,2019,,Amanda Hart
 BN-72-BJCE,2019,,Annette Schroeder
 MD-75-GYZN,2019,,Crystal Hunt
@@ -16066,7 +16066,7 @@ CA-14-WUMB,2019,,Terrance Holden
 PW-76-XNVX,2019,,Jody Thompson
 DM-18-FUBG,2019,,Dr. Jeremy Roberts
 KH-20-ZDVW,2019,,Dr. Monica Chang
-PE-68-DADK,2019,,Kathy Williams
+PE-68-DADK,2019,"Winner of Vang-Campos Chess Trials, 2019 | ",Kathy Williams
 DK-06-IHYT,2019,,Laurie Chavez
 MN-82-JNPN,2019,,Richard Fuller
 TN-16-NZKV,2019,,Megan Thompson
@@ -16207,7 +16207,7 @@ KZ-86-NZJT,2019,,Rachael Harris
 HR-70-SOGO,2019,,David Olsen
 NL-89-FZJU,2019,,Susan Neal
 VC-22-CPXA,2019,,Alan Bates
-JP-52-ZIZP,2019,,Kristen Mercer DDS
+JP-52-ZIZP,2019,"Winner of Bailey, Snyder and Smith Chess Tournament, 2019 | ",Kristen Mercer DDS
 US-54-RYVT,2019,,Amy White
 RU-32-XPJU,2019,,Michael Bennett
 ML-19-EUVU,2019,,Brett Johnson
@@ -16259,7 +16259,7 @@ ZA-63-AFKE,2019,,Emily Green
 MT-09-HWUI,2019,,Michael Ramos
 HN-28-BCEI,2019,,Michael Hale
 MC-15-FKYK,2019,,Michael Koch
-CF-06-ZEEG,2019,,Victoria Carter
+CF-06-ZEEG,2019,"Runner-Up of Mendoza, Wood and Lopez Chess Tournament, 2019 | ",Victoria Carter
 GY-27-KWIC,2019,,Lindsay Underwood
 AU-43-EVSH,2019,,Vanessa Santiago
 BT-60-DLZF,2019,,Krystal Dixon
@@ -16318,14 +16318,14 @@ RO-02-KNLL,2019,,Timothy Farrell
 UA-14-LFSU,2019,,Sarah Mendez
 MH-61-QXMW,2019,,Michael Anderson
 TM-36-BYBD,2019,,Dr. Kevin Hernandez
-TH-52-MIRM,2019,,Jacob Ray
+TH-52-MIRM,2019,"Winner of Mendoza, Wood and Lopez Chess Tournament, 2019 | ",Jacob Ray
 PG-69-JLTR,2019,,Robyn Hernandez
 NG-85-LFGT,2019,,Andrea Stevens
 AZ-06-ZLTN,2019,,Sandra Johnson
 BF-99-FCXZ,2019,,Jessica Reynolds
 NZ-76-WYEI,2019,,Michael Reid
 GQ-75-PQJS,2019,,Thomas Robertson
-NI-47-FGTP,2019,,Russell Dixon
+NI-47-FGTP,2019,"Winner of Bartlett-Perez Chess Competition, 2019 | ",Russell Dixon
 GE-47-EWMY,2019,,Emily Melton
 SR-76-HTQJ,2019,,Justin Harmon
 MC-08-WYZV,2019,,Michael Baldwin
@@ -16343,7 +16343,7 @@ OM-87-DULZ,2019,,Robert Henry
 CM-36-ZQJV,2019,,Christopher Stevenson
 LI-93-NCTB,2019,,Mr. Zachary Howe
 BH-27-YPJV,2019,,Heather Carroll
-PH-90-YDPQ,2019,,Jessica Adams
+PH-90-YDPQ,2019,"Runner-Up of Miller PLC Chess Tournament, 2019 | ",Jessica Adams
 RU-26-KYLA,2019,,Alan Martinez MD
 JM-44-WTYE,2019,,Jonathan Hernandez
 AZ-14-HZPJ,2019,,Justin Martinez
@@ -16359,7 +16359,7 @@ MZ-21-BDAZ,2019,,April Thompson
 VN-18-CKMK,2019,,John Martinez
 BR-08-LKMX,2019,,Teresa Gonzales
 RS-26-VHDS,2019,,Andrew Reed
-KP-72-IYPD,2019,,Tara Murphy
+KP-72-IYPD,2019,"Winner of Saunders, Collins and Vazquez Chess Trials, 2019 | ",Tara Murphy
 BO-28-UZGW,2019,,Felicia Garrett
 SR-81-VWAM,2019,,Cynthia Allen
 MY-38-UQSK,2019,,Ashley Roberts
@@ -16527,7 +16527,7 @@ LI-97-QBWJ,2019,,Michelle Clay
 CA-11-ADLM,2019,,Laura Cooper
 ZA-33-ZGPL,2019,,Kimberly Anderson
 QA-29-EMVO,2019,,Miguel Vasquez
-SV-50-XQRG,2019,,Steven Howell
+SV-50-XQRG,2019,"Runner-Up of Johnson, Torres and Montes Chess Contest, 2019 | ",Steven Howell
 GY-71-QJQX,2019,,Laura Spencer
 BZ-96-TCGF,2019,,Kenneth Reyes
 ML-77-UPBJ,2019,,Jacob Richardson
@@ -16724,7 +16724,7 @@ NL-70-XUGG,2019,,Stacey Miller
 ST-44-PBJA,2019,,Kimberly Lewis
 KG-17-STQW,2019,,Timothy Flores
 ET-80-OLAF,2019,,Felicia Kennedy
-GY-62-VNAL,2019,,Matthew Lucas
+GY-62-VNAL,2019,"Winner of Williams-Rios Chess Competition, 2019 | Winner of Lozano-Mcgee Chess Trials, 2019 | ",Matthew Lucas
 MT-22-TMVD,2019,,Amanda Love
 IQ-44-DSTM,2019,,Justin Casey
 DO-68-VNGZ,2019,,Trevor Gonzalez
@@ -16863,7 +16863,7 @@ CF-59-KOJQ,2019,,Justin Gray
 IE-73-TSRQ,2019,,Samantha King
 PE-39-JOEE,2019,,Stephanie Williams
 HN-76-MTFC,2019,,Crystal Brown
-PW-01-HUVQ,2019,,Cathy Garcia
+PW-01-HUVQ,2019,"Winner of Kent, Holland and Morgan Chess Tournament, 2019 | ",Cathy Garcia
 PG-76-XUTQ,2019,,Brandy Cobb
 US-37-IGZM,2019,,Denise Li
 CR-83-OMOQ,2019,,Audrey Schmidt
@@ -16871,7 +16871,7 @@ TM-31-YVUM,2019,,Joshua Murray
 SN-23-HTCJ,2019,,Morgan Rogers
 SC-05-ZGYQ,2019,,Ryan Carr
 LV-35-EOEK,2019,,John Daugherty
-HR-26-QRZW,2019,,Charles Hartman
+HR-26-QRZW,2019,"Runner-Up of Kent, Holland and Morgan Chess Tournament, 2019 | ",Charles Hartman
 SO-44-MDUD,2019,,Thomas Mendez
 ZM-66-GMRS,2019,,Kimberly Barker
 TR-18-YTFY,2019,,Jessica Arnold
@@ -16925,7 +16925,7 @@ CL-21-YPEN,2020,,Jodi Davis
 KE-92-WAHC,2020,,James Blair
 MW-96-PLJP,2020,,Amanda Thomas
 TJ-03-QKMC,2020,,Miguel Gross
-NG-37-TUDL,2020,,Charles Reed
+NG-37-TUDL,2020,"Winner of Sexton and Sons Chess Meet, 2020 | ",Charles Reed
 GD-24-YYDQ,2020,,Jessica Jones
 ER-91-BELR,2020,,Jonathon Fisher
 ET-94-PLBO,2020,,Pamela Gonzales
@@ -16950,7 +16950,7 @@ PH-45-MUMM,2020,,Edward Ruiz
 ER-35-DGSN,2020,,Ethan Gonzalez
 CR-08-ARCA,2020,,Jose Jones
 SI-27-BNDV,2020,,Nathan Harrison
-IQ-86-FKRC,2020,,William Colon
+IQ-86-FKRC,2020,"Runner-Up of Castro, Barr and Horne Chess Competition, 2020 | ",William Colon
 SZ-49-IPDQ,2020,,Aaron Collins
 KP-84-JABW,2020,,Elizabeth Martinez
 ER-41-HTKZ,2020,,Jacob Mcdaniel
@@ -17059,7 +17059,7 @@ ST-30-HUSL,2020,,Parker Edwards
 PE-09-NAMP,2020,,Michael Harris
 IT-29-BJGK,2020,,Brian Howell
 SN-14-PSIN,2020,,Stephanie Morales
-IE-01-SHSI,2020,,Leonard Dunn
+IE-01-SHSI,2020,"Runner-Up of Cantu-Kim Chess Competition, 2020 | ",Leonard Dunn
 LK-18-NOKN,2020,,Dr. Dawn Peterson MD
 BT-95-OSIG,2020,,Peter Lewis
 IR-70-KTKD,2020,,Vernon Cook
@@ -17121,7 +17121,7 @@ NO-96-MDHO,2020,,Miss Amy Daniels MD
 MH-87-PSPZ,2020,,Curtis Wang
 DK-27-DPHR,2020,,Anthony Moran
 CM-36-ZBKV,2020,,Ann Whitaker
-ZA-59-RSZJ,2020,,Steven Price
+ZA-59-RSZJ,2020,"Runner-Up of Fleming, Villanueva and Russell Chess Tournament, 2020 | ",Steven Price
 BJ-67-BVXD,2020,,Vincent Jones
 EC-21-DCGY,2020,,Christina Ibarra
 AG-92-FSWW,2020,,David Guerrero
@@ -17257,7 +17257,7 @@ JP-16-XBQG,2020,,Deborah Marshall
 TG-08-RKXC,2020,,Andrea Mills
 SN-41-TRJN,2020,,Elizabeth Phillips
 PW-68-ORKK,2020,,Michele Decker
-ZW-72-BOGZ,2020,,Tiffany Martin
+ZW-72-BOGZ,2020,"Winner of Johnson, Fields and Wyatt Chess Competition, 2020 | ",Tiffany Martin
 IQ-13-ABAP,2020,,James Bailey
 MT-37-YKWD,2020,,Heather Howard
 PH-26-VUWV,2020,,Tony Mccann
@@ -17294,13 +17294,13 @@ FR-35-ZLBW,2020,,Lisa Robinson
 ZA-36-QCPK,2020,,Marc Patrick
 VN-41-XFQG,2020,,Deborah Wolfe DVM
 BH-58-RTHP,2020,,Edward Ballard
-FJ-10-XHGD,2020,,Scott Garcia
+FJ-10-XHGD,2020,"Runner-Up of Kelley-Bailey Chess Contest, 2020 | ",Scott Garcia
 EG-79-KPJE,2020,,Samantha Ward
 NA-40-NCFW,2020,,Timothy Santos
 EG-45-KQTW,2020,,Deanna Patterson
 LC-34-NNOB,2020,,Daniel Mitchell
 ZW-41-FZKV,2020,,Lisa Garcia
-PL-36-HMRX,2020,,Terry Day
+PL-36-HMRX,2020,"Winner of Gardner-Huang Chess Meet, 2020 | ",Terry Day
 GQ-36-UYAY,2020,,Andrew Roth
 KH-65-UNFP,2020,,Randy Carr
 MN-26-VQXA,2020,,Christine Vaughn
@@ -17507,13 +17507,13 @@ LS-11-LMRN,2020,,Robert Rose
 TT-59-QZKV,2020,,Charles Santos
 CM-76-KPPK,2020,,Lori Keller
 SN-95-RKWP,2020,,Patricia Kaiser
-VU-94-ZNFC,2020,,Vanessa Mullins
+VU-94-ZNFC,2020,"Runner-Up of Francis-Larson Chess Trials, 2020 | ",Vanessa Mullins
 BS-87-BDRY,2020,,Shannon Humphrey
 KE-19-WQTX,2020,,Erin Dominguez
 LI-67-LFVC,2020,,Marissa Taylor
 TM-99-SUSE,2020,,Desiree Harrell
 KH-67-QQAV,2020,,Lindsey Nelson
-PG-78-IXJG,2020,,Ashley Allen
+PG-78-IXJG,2020,"Winner of Fleming, Villanueva and Russell Chess Tournament, 2020 | ",Ashley Allen
 ER-91-JMML,2020,,Brittany Cox
 LV-92-UVQU,2020,,Brenda Smith
 IE-91-IAIT,2020,,Jesus Holder
@@ -17612,7 +17612,7 @@ SL-93-QYCC,2020,,Ashley Steele
 NE-54-DDRD,2020,,Stephanie Harrison
 BR-80-TQIB,2020,,Lauren Carlson
 PL-47-HGTS,2020,,Allison Guerra
-WS-92-OJKT,2020,,Tracy Snyder
+WS-92-OJKT,2020,"Runner-Up of Johnson, Fields and Wyatt Chess Competition, 2020 | ",Tracy Snyder
 MD-24-QYXD,2020,,Nicholas Wallace
 NI-77-VFIK,2020,,Patricia Rodriguez
 MG-47-ZMRL,2020,,Samuel Sharp
@@ -17664,7 +17664,7 @@ LK-13-ELRD,2020,,Kathryn Elliott
 KN-02-PCLJ,2020,,Kathryn Castaneda
 MC-82-JFCT,2020,,Kent Arroyo Jr.
 CI-56-XHOS,2020,,Melissa Sosa
-LA-70-MDTX,2020,,Jose Gill
+LA-70-MDTX,2020,"Runner-Up of Sexton and Sons Chess Meet, 2020 | ",Jose Gill
 NE-73-RRXM,2020,,Megan Hanson
 MU-70-KHZU,2020,,Jessica Bowman
 NG-36-DHRA,2020,,Joshua Rivera
@@ -17743,15 +17743,15 @@ PE-14-WDWO,2020,,Kayla Robbins
 SG-06-SGOR,2020,,Sarah Arnold
 ML-70-JGLT,2020,,Daniel Waters
 SM-34-XUJH,2020,,Gregg Garcia
-SN-59-ATAV,2020,,Sherry Roy
+SN-59-ATAV,2020,"Runner-Up of Bright, Thomas and Chen Chess Competition, 2020 | ",Sherry Roy
 BR-83-VHME,2020,,Michael Sweeney
 VN-99-JJHD,2020,,Jennifer Brown
 EC-78-ASHQ,2020,,Tonya Brown
 SD-77-LALV,2020,,Gina Wade
 ZA-32-GURW,2020,,Abigail Rivera
 NR-49-VHKA,2020,,Lisa Jackson
-IL-81-DHOY,2020,,Jennifer Welch
-CA-14-WUMB,2020,,Terrance Holden
+IL-81-DHOY,2020,"Winner of Cline Group Chess Meet, 2020 | ",Jennifer Welch
+CA-14-WUMB,2020,"Winner of Kelley-Bailey Chess Contest, 2020 | ",Terrance Holden
 PW-76-XNVX,2020,,Jody Thompson
 DM-18-FUBG,2020,,Dr. Jeremy Roberts
 KH-20-ZDVW,2020,,Dr. Monica Chang
@@ -17795,7 +17795,7 @@ IE-58-HOPB,2020,,Teresa Smith
 UZ-66-SKMG,2020,,Victor Garcia
 MZ-39-OAFJ,2020,,Dennis Scott
 PS-45-IOXW,2020,,Michelle Moran
-BD-82-HULJ,2020,,Rebecca Garcia
+BD-82-HULJ,2020,"Runner-Up of Gardner-Huang Chess Meet, 2020 | ",Rebecca Garcia
 UG-35-LJYE,2020,,Angela Herrera
 EC-11-PQJJ,2020,,Matthew Nelson
 ET-82-RYEI,2020,,Penny Glass
@@ -17891,7 +17891,7 @@ SR-04-SDLE,2020,,Barbara Cowan
 KH-93-CGIX,2020,,Jacqueline Porter
 WS-66-LTGD,2020,,Alyssa Moore
 LV-93-GSSH,2020,,Matthew Ray
-MD-51-GMWM,2020,,Richard Ruiz
+MD-51-GMWM,2020,"Winner of Farrell, King and Chen Chess Competition, 2020 | ",Richard Ruiz
 KZ-86-NZJT,2020,,Rachael Harris
 HR-70-SOGO,2020,,David Olsen
 NL-89-FZJU,2020,,Susan Neal
@@ -17927,7 +17927,7 @@ JM-41-IZPA,2020,,Toni Manning
 DO-25-CKLW,2020,,Brenda Logan
 AU-49-FNHE,2020,,Gregory Morgan
 BN-95-HUZI,2020,,Jennifer Hall
-WS-69-YHCX,2020,,Aaron Adams
+WS-69-YHCX,2020,"Winner of Castro, Barr and Horne Chess Competition, 2020 | ",Aaron Adams
 BG-14-XMWQ,2020,,Jill Rhodes
 TH-81-FDXQ,2020,,Teresa Taylor
 MD-22-IONH,2020,,Michele Martin
@@ -17964,7 +17964,7 @@ GQ-95-NKRZ,2020,,Douglas Wade
 UY-74-XSNV,2020,,Michael Gonzalez
 EE-84-PFDY,2020,,Courtney Bates
 FJ-28-XUNV,2020,,Jamie Marshall
-JM-63-ZHHA,2020,,Taylor Le
+JM-63-ZHHA,2020,"Runner-Up of Hancock Inc Chess Meet, 2020 | ",Taylor Le
 TN-38-YXXU,2020,,Matthew Martin
 EE-21-WQXT,2020,,Robert Dawson
 GQ-97-XXWC,2020,,Harold Joyce
@@ -18005,14 +18005,14 @@ VE-41-UZNF,2020,,Amy Martinez
 SL-29-QYXZ,2020,,Angela Wells
 RO-02-KNLL,2020,,Timothy Farrell
 UA-14-LFSU,2020,,Sarah Mendez
-MH-61-QXMW,2020,,Michael Anderson
+MH-61-QXMW,2020,"Winner of Martinez, Stuart and Galvan Chess Trials, 2020 | ",Michael Anderson
 TM-36-BYBD,2020,,Dr. Kevin Hernandez
 TH-52-MIRM,2020,,Jacob Ray
 PG-69-JLTR,2020,,Robyn Hernandez
 NG-85-LFGT,2020,,Andrea Stevens
 AZ-06-ZLTN,2020,,Sandra Johnson
 BF-99-FCXZ,2020,,Jessica Reynolds
-NZ-76-WYEI,2020,,Michael Reid
+NZ-76-WYEI,2020,"Runner-Up of Franklin-Greene Chess Trials, 2020 | ",Michael Reid
 GQ-75-PQJS,2020,,Thomas Robertson
 NI-47-FGTP,2020,,Russell Dixon
 GE-47-EWMY,2020,,Emily Melton
@@ -18048,7 +18048,7 @@ MZ-21-BDAZ,2020,,April Thompson
 VN-18-CKMK,2020,,John Martinez
 BR-08-LKMX,2020,,Teresa Gonzales
 RS-26-VHDS,2020,,Andrew Reed
-KP-72-IYPD,2020,,Tara Murphy
+KP-72-IYPD,2020,"Runner-Up of Martinez, Stuart and Galvan Chess Trials, 2020 | ",Tara Murphy
 BO-28-UZGW,2020,,Felicia Garrett
 SR-81-VWAM,2020,,Cynthia Allen
 MY-38-UQSK,2020,,Ashley Roberts
@@ -18156,7 +18156,7 @@ CG-39-CVLB,2020,,Kelly Hancock
 BO-28-QTLT,2020,,Devin Miller
 AL-47-MJNI,2020,,Richard Rosales
 HU-85-FOWO,2020,,Christopher Holmes
-CR-85-LEUU,2020,,Dr. Mark Mason MD
+CR-85-LEUU,2020,"Winner of Cantu-Kim Chess Competition, 2020 | ",Dr. Mark Mason MD
 BS-71-XKLW,2020,,Amanda Hutchinson
 GN-00-DRHM,2020,,Christopher Stevens
 KG-78-HQNB,2020,,Robert Avila PhD
@@ -18183,7 +18183,7 @@ TD-90-OCEU,2020,,Jason Reid
 MG-97-KWIZ,2020,,Timothy Wade
 KH-03-KSMG,2020,,Elizabeth Buck
 ES-54-OFXP,2020,,Elizabeth Simon
-VC-57-BONQ,2020,,Cindy Gray
+VC-57-BONQ,2020,"Runner-Up of Mccarthy-White Chess Contest, 2020 | ",Cindy Gray
 EC-15-ICLS,2020,,Joshua Huff
 IS-13-LJDI,2020,,Cynthia Stokes
 ZW-25-KSEE,2020,,Randy Rowe
@@ -18241,12 +18241,12 @@ BZ-68-YHUE,2020,,James Hill
 NI-02-EOKQ,2020,,Lindsey Jones
 GQ-31-QASD,2020,,Tina Montgomery
 UA-54-OONI,2020,,Brian Cortez
-LV-74-HDAN,2020,,Melissa Saunders
+LV-74-HDAN,2020,"Winner of Bright, Thomas and Chen Chess Competition, 2020 | ",Melissa Saunders
 JM-29-NRCL,2020,,Brian Russell
 JP-86-TNMC,2020,,Cheryl Bailey
 LB-95-YDKY,2020,,Robert Mcdonald
 CO-50-IEWB,2020,,Mario Gentry
-FJ-29-CKSN,2020,,Robert Robinson
+FJ-29-CKSN,2020,"Winner of Hancock Inc Chess Meet, 2020 | ",Robert Robinson
 HU-29-AADI,2020,,Alejandra Winters
 TR-57-FTTI,2020,,Jerome Atkinson
 DK-43-OIHE,2020,,Xavier Curtis
@@ -18299,7 +18299,7 @@ AE-40-YCAI,2020,,Sarah Jenkins
 CU-98-EPQF,2020,,Jennifer Nielsen
 MV-69-PAUV,2020,,Andrea Grant
 SZ-77-EHSK,2020,,Jessica James
-BJ-13-XTDN,2020,,Timothy Combs
+BJ-13-XTDN,2020,"Runner-Up of Farrell, King and Chen Chess Competition, 2020 | ",Timothy Combs
 BN-80-KGLB,2020,,James Miller
 UA-46-DCPW,2020,,Paula Johnson
 FI-41-VHDK,2020,,Anita Martinez
@@ -18413,7 +18413,7 @@ NL-70-XUGG,2020,,Stacey Miller
 ST-44-PBJA,2020,,Kimberly Lewis
 KG-17-STQW,2020,,Timothy Flores
 ET-80-OLAF,2020,,Felicia Kennedy
-GY-62-VNAL,2020,,Matthew Lucas
+GY-62-VNAL,2020,"Winner of Francis-Larson Chess Trials, 2020 | ",Matthew Lucas
 MT-22-TMVD,2020,,Amanda Love
 IQ-44-DSTM,2020,,Justin Casey
 DO-68-VNGZ,2020,,Trevor Gonzalez
@@ -18436,7 +18436,7 @@ DE-93-JWFT,2020,,John Davis
 CO-98-BBWZ,2020,,Daniel Grant
 BA-51-EOIN,2020,,Christopher Lee
 MW-67-GLLF,2020,,Deanna Haley
-DK-20-JDCB,2020,,Mark Cole
+DK-20-JDCB,2020,"Runner-Up of Cline Group Chess Meet, 2020 | ",Mark Cole
 MK-77-VZCH,2020,,Richard Greene
 GE-06-AGFT,2020,,Shaun Brown
 AE-75-VRXL,2020,,Cynthia Velasquez
@@ -18552,10 +18552,10 @@ CF-59-KOJQ,2020,,Justin Gray
 IE-73-TSRQ,2020,,Samantha King
 PE-39-JOEE,2020,,Stephanie Williams
 HN-76-MTFC,2020,,Crystal Brown
-PW-01-HUVQ,2020,,Cathy Garcia
+PW-01-HUVQ,2020,"Winner of Mccarthy-White Chess Contest, 2020 | ",Cathy Garcia
 PG-76-XUTQ,2020,,Brandy Cobb
 US-37-IGZM,2020,,Denise Li
-CR-83-OMOQ,2020,,Audrey Schmidt
+CR-83-OMOQ,2020,"Winner of Franklin-Greene Chess Trials, 2020 | ",Audrey Schmidt
 TM-31-YVUM,2020,,Joshua Murray
 SN-23-HTCJ,2020,,Morgan Rogers
 SC-05-ZGYQ,2020,,Ryan Carr
@@ -18585,7 +18585,7 @@ PE-42-UTAT,2021,,Steven Thomas
 BN-21-NJLH,2021,,Christopher Carpenter
 LA-84-WLTS,2021,,Ashley Huerta
 LB-50-OJRQ,2021,,Amanda Fox
-UY-98-WJIP,2021,,Brian Mcintosh
+UY-98-WJIP,2021,"Winner of Foster Inc Chess Contest, 2021 | ",Brian Mcintosh
 FR-56-GSWF,2021,,Janice Jensen
 PS-74-TZSS,2021,,Mary Wiggins
 ME-10-UIUV,2021,,Tonya Garcia
@@ -18664,7 +18664,7 @@ KZ-80-AJMS,2021,,Christian Bowen
 TJ-06-ATOI,2021,,Sean Alexander
 PG-13-YNZI,2021,,Francis Reed
 HR-92-EXFA,2021,,Tracy Baird
-BE-59-YWVU,2021,,Christina Gutierrez
+BE-59-YWVU,2021,"Runner-Up of Rodriguez and Sons Chess Competition, 2021 | ",Christina Gutierrez
 UA-70-DWGU,2021,,Gina Montgomery
 KH-67-NVBX,2021,,Michael Barton
 KW-62-TNZV,2021,,Heidi Kelly DDS
@@ -18686,10 +18686,10 @@ VC-16-BWYN,2021,,Eric Atkinson
 NA-82-ANYB,2021,,Rachel Fox
 AR-98-XSUS,2021,,Claudia Mccarty
 CG-46-YOJL,2021,,Emily Stewart
-MX-47-GIVV,2021,,Paul Burnett
+MX-47-GIVV,2021,"Runner-Up of Hayes-Smith Chess Contest, 2021 | ",Paul Burnett
 LS-01-AVPU,2021,,Angela Evans
 ML-92-EMPI,2021,,Bryce Johnson
-BH-19-RPNK,2021,,Justin Bennett
+BH-19-RPNK,2021,"Runner-Up of Burns, Bryan and Crawford Chess Tournament, 2021 | ",Justin Bennett
 UY-94-EVPM,2021,,Shannon Larson
 ZA-10-ZRYG,2021,,Kimberly Jensen
 IQ-75-UUPG,2021,,Andrew Campbell
@@ -18723,7 +18723,7 @@ BZ-55-RHJN,2021,,Monica Mercer
 SR-09-IMKS,2021,,James Miller
 UZ-68-JHLD,2021,,Chris Price
 BR-53-KGTH,2021,,Jacob Schmidt
-BD-73-VDRS,2021,,Cassie Williams
+BD-73-VDRS,2021,"Winner of Steele-Villegas Chess Trials, 2021 | ",Cassie Williams
 CR-60-TRCN,2021,,Richard Thompson
 SO-45-MHHL,2021,,Anne Hernandez
 MG-80-LYTR,2021,,Zachary Tanner
@@ -18757,12 +18757,12 @@ JM-55-CBGS,2021,,Brandy Nelson
 MA-82-FWUA,2021,,Curtis Jackson
 SR-00-WRRM,2021,,Sarah Moore
 MK-07-LPEW,2021,,Casey Garcia
-FI-01-HKOI,2021,,Suzanne Scott
+FI-01-HKOI,2021,"Runner-Up of Kim, Peterson and Dunn Chess Tournament, 2021 | ",Suzanne Scott
 DM-15-DWFC,2021,,Daniel Moody
 CG-57-KABD,2021,,Crystal Carson
 TO-65-KRES,2021,,Sarah Hawkins
 GB-92-CNXD,2021,,Brittany Ferguson
-AM-85-HWVM,2021,,Joseph Guzman
+AM-85-HWVM,2021,"Runner-Up of Craig PLC Chess Tournament, 2021 | ",Joseph Guzman
 BB-55-JSYJ,2021,,Brenda Richard
 NL-83-QBWX,2021,,Linda Cook
 TV-02-MKFG,2021,,Carrie Mayer
@@ -18943,7 +18943,7 @@ UA-73-RPEX,2021,,John Collins
 SL-46-URAS,2021,,Brett West
 TH-10-TNPI,2021,,James Buckley
 JP-16-XBQG,2021,,Deborah Marshall
-TG-08-RKXC,2021,,Andrea Mills
+TG-08-RKXC,2021,"Runner-Up of Richard and Sons Chess Meet, 2021 | ",Andrea Mills
 SN-41-TRJN,2021,,Elizabeth Phillips
 PW-68-ORKK,2021,,Michele Decker
 ZW-72-BOGZ,2021,,Tiffany Martin
@@ -19056,7 +19056,7 @@ MU-89-ZINM,2021,,Karen Michael
 MK-58-WMDM,2021,,David Maxwell
 ES-29-WXXH,2021,,Timothy Kim Jr.
 RU-42-UQJD,2021,,Heather Martinez
-MN-47-JXQO,2021,,Shawn Flowers
+MN-47-JXQO,2021,"Runner-Up of Mcbride-Moran Chess Competition, 2021 | ",Shawn Flowers
 SK-17-XXDO,2021,,Desiree Watson
 PL-02-DRSZ,2021,,Justin Barton
 TD-34-VZRG,2021,,Matthew Martin
@@ -19153,7 +19153,7 @@ BD-79-ITPY,2021,,Carrie Campbell
 KZ-12-EIPM,2021,,Amanda Mathis
 GB-74-QJVQ,2021,,Michael Valentine
 IE-96-YUVV,2021,,Lisa Mcdowell
-TW-96-IQTA,2021,,Hannah Stein
+TW-96-IQTA,2021,"Winner of Burns, Bryan and Crawford Chess Tournament, 2021 | ",Hannah Stein
 KR-90-ZBZX,2021,,Chad Jones
 SO-80-SAGZ,2021,,Veronica Smith
 CN-74-FKBY,2021,,Samantha Poole
@@ -19211,7 +19211,7 @@ FR-02-ATGN,2021,,Marissa Wilson
 EE-04-PAHB,2021,,Alex Garcia
 VU-07-ONBD,2021,,Jennifer Duran
 KW-02-RCOX,2021,,Tina Roy
-SC-79-IMIA,2021,,Cameron Clarke MD
+SC-79-IMIA,2021,"Runner-Up of Foster Inc Chess Contest, 2021 | ",Cameron Clarke MD
 EE-96-XRNI,2021,,Duane Hudson
 US-35-DAAF,2021,,Shelia Fleming
 CM-09-CBAZ,2021,,Latasha Wright
@@ -19244,7 +19244,7 @@ BN-55-CNIW,2021,,Mr. Nicholas Lewis
 RS-80-ZHEV,2021,,Juan Kennedy
 UG-59-KKOA,2021,,Chad Brown
 AT-94-IGON,2021,,Jerry Tanner
-TN-38-REWJ,2021,,Mercedes Rose DVM
+TN-38-REWJ,2021,"Winner of Richard and Sons Chess Meet, 2021 | ",Mercedes Rose DVM
 LV-12-FOML,2021,,Robin Vasquez
 CU-95-ZQGX,2021,,Ryan Walker
 BH-50-QSRY,2021,,Chad Lawrence
@@ -19252,7 +19252,7 @@ HR-41-FLFC,2021,,Brian Lambert
 LS-76-CIXD,2021,,Steven Barnes
 NR-84-BXAU,2021,,Christina Valencia
 JM-26-YNFJ,2021,,James Garcia
-NE-18-MEEZ,2021,,Christina Alvarez
+NE-18-MEEZ,2021,"Winner of Rodriguez and Sons Chess Competition, 2021 | ",Christina Alvarez
 TJ-01-OYTT,2021,,Jamie Pittman
 NL-92-KOVO,2021,,Mr. Aaron Mckinney MD
 MZ-02-YOLS,2021,,Jason Arnold
@@ -19368,7 +19368,7 @@ TJ-54-FTSW,2021,,Kathleen Anderson
 JM-42-KLDF,2021,,Leah Burke
 SR-67-VHCH,2021,,Rebecca Peterson
 AG-97-NEMJ,2021,,Gabrielle Becker
-RS-55-KLLS,2021,,Nicholas Garza
+RS-55-KLLS,2021,"Winner of Hayes-Smith Chess Contest, 2021 | ",Nicholas Garza
 AL-93-DZAC,2021,,Amanda Hart
 BN-72-BJCE,2021,,Annette Schroeder
 MD-75-GYZN,2021,,Crystal Hunt
@@ -19518,7 +19518,7 @@ FI-72-AKRM,2021,,Lisa Moore MD
 MC-66-WXWW,2021,,Angela Foster
 NE-33-NJWK,2021,,Shannon Hill
 MM-91-VQZW,2021,,Anna Simmons
-GB-66-PTAS,2021,,Mr. Michael Johnson
+GB-66-PTAS,2021,"Winner of Kim, Peterson and Dunn Chess Tournament, 2021 | ",Mr. Michael Johnson
 TV-44-ECLZ,2021,,Christopher Stevens
 LV-35-BIGE,2021,,Sandra Jackson
 AZ-48-YPXQ,2021,,Matthew James
@@ -19604,7 +19604,7 @@ KN-13-GZZK,2021,,Joshua Ford
 EC-55-HLYK,2021,,Lisa Ellis
 KW-47-MHMF,2021,,Nathan York
 PY-67-EHXG,2021,,Charles Kennedy
-NA-07-KQGZ,2021,,Megan Donovan
+NA-07-KQGZ,2021,"Winner of Mcbride-Moran Chess Competition, 2021 | ",Megan Donovan
 AM-11-TJUM,2021,,Grace Whitehead
 AL-82-QXDP,2021,,Justin Turner
 PY-88-EHOZ,2021,,Lauren Figueroa
@@ -19670,7 +19670,7 @@ RU-70-CGFA,2021,,Matthew Freeman
 CZ-50-UUUP,2021,,Courtney Anderson
 PL-97-VBGI,2021,,Kimberly Butler
 BD-20-VCZK,2021,,Ruth Blackwell
-LS-03-PXLG,2021,,Jessica Stanley
+LS-03-PXLG,2021,"Winner of Craig PLC Chess Tournament, 2021 | ",Jessica Stanley
 US-72-HGBZ,2021,,Jessica Henderson
 BN-68-TUGU,2021,,Monique Murray
 CV-52-QTQW,2021,,Scott Nunez
@@ -19773,7 +19773,7 @@ BT-07-MBHK,2021,,Jerry Martin
 NP-25-AURH,2021,,Robert Crane
 DE-40-NYKM,2021,,Nicholas Reyes
 UZ-59-YNFC,2021,,Mary Nash
-SN-65-MYMG,2021,,Shawn Mitchell
+SN-65-MYMG,2021,"Runner-Up of Conley, Schmidt and Brown Chess Trials, 2021 | ",Shawn Mitchell
 KR-33-OTSY,2021,,Jonathan Moran
 LC-39-QUEV,2021,,Stephen Wade
 SK-86-QOOI,2021,,Gary Adkins
@@ -19868,7 +19868,7 @@ SM-32-EXUF,2021,,William Edwards
 BA-96-BTKS,2021,,Scott Yates
 EE-92-QZDK,2021,,John Nguyen
 GH-74-GOJT,2021,,Melissa Brown
-TD-90-OCEU,2021,,Jason Reid
+TD-90-OCEU,2021,"Runner-Up of Reynolds, Griffith and Ortiz Chess Trials, 2021 | ",Jason Reid
 MG-97-KWIZ,2021,,Timothy Wade
 KH-03-KSMG,2021,,Elizabeth Buck
 ES-54-OFXP,2021,,Elizabeth Simon
@@ -20008,7 +20008,7 @@ DK-82-WVZZ,2021,,Anthony Johnson
 SL-59-FQXF,2021,,Peter Daugherty
 PK-99-OPMV,2021,,Rebecca Moore
 CD-02-ODUL,2021,,John Henry
-MR-53-KAJP,2021,,Kyle Marshall
+MR-53-KAJP,2021,"Winner of Reynolds, Griffith and Ortiz Chess Trials, 2021 | ",Kyle Marshall
 LI-08-UUZW,2021,,Mr. Robert Barton
 UA-06-UVKH,2021,,Tina Martinez
 AL-40-YJDQ,2021,,Jeffery Graves
@@ -20121,7 +20121,7 @@ VN-41-HNEV,2021,,Jason Mckinney
 KH-06-NXMS,2021,,Katherine Jenkins
 BB-77-IFNE,2021,,Trevor Hill
 PK-23-DZBO,2021,,Wayne Fischer
-DE-93-JWFT,2021,,John Davis
+DE-93-JWFT,2021,"Winner of Conley, Schmidt and Brown Chess Trials, 2021 | ",John Davis
 CO-98-BBWZ,2021,,Daniel Grant
 BA-51-EOIN,2021,,Christopher Lee
 MW-67-GLLF,2021,,Deanna Haley
@@ -20164,7 +20164,7 @@ BS-44-UBMB,2021,,Russell Murray
 HR-41-NCFI,2021,,Danielle Sanchez
 SL-67-YBFZ,2021,,Karen Lowe
 KZ-98-HLSN,2021,,Justin Atkinson
-MX-98-ELYY,2021,,Matthew Jordan
+MX-98-ELYY,2021,"Runner-Up of Steele-Villegas Chess Trials, 2021 | ",Matthew Jordan
 AM-14-OIUO,2021,,John Perry
 SZ-20-GYCG,2021,,Michelle Carrillo
 NI-25-MBLX,2021,,Jeffrey Jackson
