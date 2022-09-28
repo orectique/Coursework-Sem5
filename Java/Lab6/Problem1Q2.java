@@ -19,8 +19,8 @@ Two classes 'Employee' and 'Manager' inherits the 'Member' class. The 'Employee'
 
 
 public class Problem1Q2 {
-    private static class Parent {
-        public void printParent() {
+    public static class Parent {
+        private void printParent() {
             System.out.println("This is parent class");
         }
     }
@@ -57,7 +57,7 @@ public class Problem1Q2 {
         Child c = new Child();
         c.printChild();
         
-
+/*
         Employee emp = new Employee();
         emp.name = "Sherlock";
         emp.age = 30;
@@ -85,5 +85,7 @@ public class Problem1Q2 {
         System.out.println("Phone: " + man.phone);
         System.out.println("Address: " + man.address);
         System.out.println("Specialization: " + man.department);
+
+*/
     }    
 }
